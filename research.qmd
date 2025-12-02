@@ -1,0 +1,154 @@
+---
+title: "Research"
+toc: true
+toc-location: right 
+link-external-newwindow: true
+---
+
+# Publications
+
+## 2025
+**Do organic farming policies need to be more target-oriented to achieve sustainability?**  
+Rey Vicario, D., Kremmydas, D., Baldoni, E., Ciaian, P., & Tillie, P. 
+Journal of environmental management, 394, 127342. https://doi.org/10.1016/j.jenvman.2025.127342
+
+<small>Compares three EU organic conversion strategies (action-based, result-based, and combined) using IFM-CAP. Result-oriented policy delivers higher GHG reductions per euro by targeting high‑emitting livestock farms but is costlier and may miss the 25% area target. Action‑oriented policy is cheaper and closer to the 25% area goal but achieves lower emission reductions. Recommendation: target farms with greater emission‑reduction potential rather than only expanding converted area.</small>
+
+## 2024
+**Closing the EU protein gap – drivers, synergies and trade-offs**  
+Hristov, J., Tassinari, G., Himics, M., Beber, C., Barbosa, A.L., Isbasoiu, A., Klinnert, A.,  
+Kremmydas, D., Tillie, P., & Fellmann, T.  
+Publications Office of the European Union.
+
+**The EU target for organic farming: Potential economic and environmental impacts**  
+Kremmydas, D., Beber, C. L., et al.  
+*Applied Economic Perspectives and Policy.*
+
+## 2023
+**Modeling conversion to organic agriculture with an EU-wide farm model**  
+Kremmydas, D.; Ciaian, P.; Baldoni, E.  
+*Bio-based and Applied Economics.*
+
+**Farm-level impacts of the CAP post-2020 reform: A scenario-based analysis**  
+Petsakos, A., Ciaian, P., Espinosa, M., Perni, A., & Kremmydas, D.  
+*Applied Economic Perspectives and Policy*, 45(2), 1168–1188.
+
+**Agro-economic–environmental modelling in the context of the Green Deal**  
+Fellmann, T.; Genovese, G.; Antonioli, F.; et al., incl. Kremmydas, D.  
+Publications Office of the European Union.
+
+## 2022
+**Redistribution and the abolishment of historical entitlements in the CAP Strategic Plans**  
+Kremmydas, D., & Tsiboukas, K.  
+*Sustainability*, 14(2), 735.
+
+## 2021
+**The EU-Wide Individual Farm Model for CAP Analysis (IFM-CAP v.2)**  
+Kremmydas, D., Petsakos, A., Ciaian, P., Baldoni, E., & Tillie, P.  
+Joint Research Centre, JRC127014.
+
+**The Evolution of Decision Support Systems for Agriculture**  
+Kremmydas, D.; Konstantinis, A.; Rozakis, S.  
+In *EURO Working Group on DSS*, Springer.
+
+**A design for a generic and modular bio-economic farm model**  
+Britz, W.; Ciaian, P.; Gocht, A.; Kanellopoulos, A.; Kremmydas, D. et al.  
+*Agricultural Systems*, 191, 103133.
+
+## 2020
+**The Matthew effect of a journal's ranking**  
+Drivas, K., & Kremmydas, D.  
+*Research Policy*, 49(4), 103951.
+
+## 2018
+**A review of agent-based modeling for agricultural policy evaluation**  
+Kremmydas, D.; Athanasiadis, I.N.; Rozakis, S.  
+*Agricultural Systems*, 164, 95–106.
+
+**Allocating Shadow Prices in a Multi-objective Chance Constrained Problem of Biodiesel Blending**  
+Caldeira, C., Dias, L., Freire, F., Kremmydas, D., & Rozakis, S.  
+In *Multicriteria Analysis in Agriculture*, Springer.
+
+## 2016
+**The impact of different energy policy options on feedstock price and land demand**  
+Bartoli, A.; Cavicchioli, D.; Kremmydas, D.; Rozakis, S.; Olper, A.  
+*Energy Policy*, 96, 351–363.
+
+**Data warehouse technology for agricultural policy data: a Greek case study**  
+Maliappis, M.T.; & Kremmydas, D.  
+*International Journal of Sustainable Agricultural Management and Informatics*, 2(2–4), 243–262.
+
+## 2015 and before
+**Food Inflation in the European Union: Distribution Analysis and Spatial Effects**  
+Liontakis, A., & Kremmydas, D.  
+*Geographical Analysis*, 46(2), 148–164.
+
+**Straw potential for energy purposes in Poland**  
+Rozakis, S.; Kremmydas, D.; Pudełko, R.; Borzęcka-Walker, M.; Faber, A.  
+*Biomass and Bioenergy*, 58, 275–285.
+
+**Highly scalable parallelization of standard simplex method**  
+Mamalis, B.; Pantziou, G.; Dimitropoulos, G.; Kremmydas, D.  
+*International Journal of Computers and Applications*, 35(4), 152–161.
+
+**Parametric Optimization of Linear and Non-Linear Models via Parallel Computing**  
+Kremmydas, D.; Petsakos, A.; Rozakis, S.  
+*International Journal of Decision Support System Technology*, 4(1), 14–29.
+
+**Support and protection of Greek agriculture**  
+Karanikolas, P.; Bourdaras, D.; Kremmydas, D.; Martinos, N.  
+*South-Eastern Europe Journal of Economics*, 6(2).
+
+
+# Conferences & Seminars
+
+## 2025
+**XVIII EAAE Congress**, Bonn, Germany  
+– *Maximizing Policy Impact: The Value of Information in Designing Agri-environmental Policy*  
+– *Environmental and Economic Impacts of a Tax on Mineral N Fertilizers*  
+– *Farm-level effects of the Enhanced Conditionality in the CAP*  
+– Presentations in Organized Sessions (IFM-CAP calibration, sustainable practices, water modelling).
+
+## 2024
+– **ERSA 2024**: Drought effects on agricultural productivity  
+– **ICAE 2024**, New Delhi  
+– **EcoMod2024**, Izmir: Deep learning–based emulation  
+– **EAERE 2024**, Leuven: Organic farming policy targeting
+
+## 2023
+– **XVII EAAE Congress**, Rennes  
+– **AES Annual Conference**, Warwick University (Invited plenary speaker)
+
+## 2022
+– **181st EAAE Seminar**, Berlin: Organic conversion modelling
+
+## 2021
+– **ETAGRO Conference**, Athens  
+– **XIII Congreso de Economía Agroalimentaria**, Cartagena, Spain
+
+## 2019
+– **172nd EAAE Seminar**, Brussels  
+– **HAICTA 2017 (Revised Papers 2019)**: CAP 2020 Regionalization DSS
+
+## 2018
+– **167th EAAE Seminar**, Puławy  
+– **162nd EAAE Seminar**, Budapest  
+– **HAICTA 2017**, Chania
+
+## 2015 and before
+– **HAICTA 2015**, Kavala
+
+– **BALCOR 2011**, Thessaloniki  
+– **IASTED PDCN 2011**, Innsbruck
+
+
+# Research Projects
+
+## HYDROSENSE
+xxx
+
+## MINDSTEP
+xxx
+
+## TOOLS4CAP
+xxxx

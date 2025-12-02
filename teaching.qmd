@@ -1,0 +1,37 @@
+---
+title: "Teaching"
+---
+
+## Student Supervision
+
+- [2024] Andrew Mallos (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney
+- [2022] Gloria Chen (Economics Honours Thesis), co-supervision with Dr. Siqi Pan, The University of Melbourne
+- [2020] Dane Luo (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney
+- [2020] Angela Zhang (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney
+- [2020] Maxwell Glanville (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney
+- [2020] Leslie Marsch (Economics Master Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney
+
+## Teaching
+
+#### Maastricht University, Netherlands
+
+- Behavioral Economics (TA in 2015, 2016)
+    - Graduate course
+    - Course coordinator: Prof. Dr. Thomas Dohmen
+    - Duties: teaching, grading, contributing to curriculum design
+    - Teaching evaluation: 8.8 / 10  (N=21)
+	
+- Personnel Economics (TA in 2015, 2016, 2017)
+    - Undergraduate course
+    - Course coordinator: Dr. Steffen Künn
+    - Duties: teaching, grading, contributing to curriculum design
+    - My teaching evaluation: 9.3 / 10 (N=70)
+
+- Presentation Skills (TA in 2015)
+    - Undergraduate course
+    - Student evaluation: 8.7/10 
+    
+
+<!--
+Add separation here between body and footer
+-->

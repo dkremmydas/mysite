@@ -1,0 +1,212 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "[2024] Andrew Mallos (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2022] Gloria Chen (Economics Honours Thesis), co-supervision with Dr. Siqi Pan, The University of Melbourne\n[2020] Dane Luo (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Angela Zhang (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Maxwell Glanville (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Leslie Marsch (Economics Master Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney"
+  },
+  {
+    "objectID": "teaching.html#student-supervision",
+    "href": "teaching.html#student-supervision",
+    "title": "Teaching",
+    "section": "",
+    "text": "[2024] Andrew Mallos (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2022] Gloria Chen (Economics Honours Thesis), co-supervision with Dr. Siqi Pan, The University of Melbourne\n[2020] Dane Luo (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Angela Zhang (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Maxwell Glanville (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney\n[2020] Leslie Marsch (Economics Master Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney"
+  },
+  {
+    "objectID": "teaching.html#teaching",
+    "href": "teaching.html#teaching",
+    "title": "Teaching",
+    "section": "Teaching",
+    "text": "Teaching\n\nMaastricht University, Netherlands\n\nBehavioral Economics (TA in 2015, 2016)\n\nGraduate course\nCourse coordinator: Prof. Dr. Thomas Dohmen\nDuties: teaching, grading, contributing to curriculum design\nTeaching evaluation: 8.8 / 10 (N=21)\n\nPersonnel Economics (TA in 2015, 2016, 2017)\n\nUndergraduate course\nCourse coordinator: Dr. Steffen Künn\nDuties: teaching, grading, contributing to curriculum design\nMy teaching evaluation: 9.3 / 10 (N=70)\n\nPresentation Skills (TA in 2015)\n\nUndergraduate course\nStudent evaluation: 8.7/10"
+  },
+  {
+    "objectID": "posts/2022-01-01-R-website/index.html",
+    "href": "posts/2022-01-01-R-website/index.html",
+    "title": "Creating an academic website using RMarkdown",
+    "section": "",
+    "text": "These are the resources I used to make my own website. I tried different things (Wordpress, Squarespace, Jekyll…), and I find that the easiest way by far to create a static website is to use R and host your page via Github Pages. Github allows you to host your website for free, update it super quickly, and will never bug (unlike those sneaker ruby gem updates for your Jekyll page…) :-) Sure, you could make your page using Google Sites, but making your own page from scratch is much more fun!\n\nStart from Emily Zabor’s super simple guide here. Run through the complete guide first, before tweaking the design.\nLearn the basics of RMarkdown to create your own content:\n\nRMarkdown basics here\nMore RMarkdown basics here\nMaking websites using RMarkdown here\n\nThen tweak the design of your website by digging into more advanced topics using more complete guides:\n\nThis online book here\nYan Holtz’s RMarkdown tips here\nAcademic Icons (e.g. for your contact list) here\n\nNote: for more control, you may want to learn a bit about HTML for organizing content and CSS for styling."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\nJan 1, 2022\n\n\nCreating an academic website using RMarkdown\n\n\nCoding\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dimitrios Kremmydas",
+    "section": "",
+    "text": "I am an Assistant Professor of Decision Making in Farm Management at the\nDepartment of Agricultural Economics and Rural Development, Agricultural University of Athens.\nFrom 2019 to 2025, I worked as an Economic Modeller and Deputy Team Leader at the\nEuropean Commission’s Joint Research Centre (JRC), Unit D4 – Economics of the Food System in Seville, Spain.\nMy work focused on quantitative socio-economic analysis related to the Green Deal, the Farm to Fork Strategy, CAP, and EU food systems, including organic farming, sustainable farming practices, nitrogen taxation, fertilizer price impacts, GAEC adoption costs, CAP simplification, and modelling of CAP Strategic Plans.\nI am the main developer of the IFM-CAP EU-wide farm model, have collaborated extensively with DG AGRI (including SCENAR2040 and FSDN design), and participated in the EU Horizon projects MINDSTEP and TOOLS4CAP.\nMy technical work spans micro-data processing, econometrics, spatial analysis, machine learning for micro-data synthesis, and advanced policy modelling.\nMy earlier academic experience (2010–2019) includes research and teaching at the Agricultural University of Athens, covering data collection and analysis, model development, project management, grant writing, teaching, supervision, and curriculum design.\nI previously worked as a researcher and technical assistant (2006–2010) and as a researcher for the magazine Olive and olive oil.\n\n\n\nDepartment of Agricultural Economics and Rural Development, Agricultural University of Athens (2025– )\n\nEuropean Commission – Joint Research Centre (JRC), D4 Economics of the Food System (2019–2025)\n\nEuropean Association of Agricultural Economists (member since 2017)\n\nAgricultural Economics Society (member since 2023)\n\n\n\n\n\nPhD in Agricultural Economics\nAgricultural University of Athens (2013–2019)\nDissertation: Integrated agent-based model of Greek agriculture for policy analysis\nDeveloped the GREFAM model and integrated agent-based, micro-economic, and DSS frameworks.\nMSc in Integrated Rural Development\nAgricultural University of Athens (2004–2006)\nThesis: Measuring Support and Protection in the Agricultural Sector: The Case of Greece\nBSc in Computer Science\nHellenic Open University (2004–2009)\nThesis: Parallel Algorithms for Scientific Computing in Cluster Environments\nBSc in Agricultural Economics and Rural Development\nAgricultural University of Athens (1995–2002)\nThesis: The Consumption of Ready-Made Meals in Greece"
+  },
+  {
+    "objectID": "index.html#affiliations",
+    "href": "index.html#affiliations",
+    "title": "Dimitrios Kremmydas",
+    "section": "",
+    "text": "Department of Agricultural Economics and Rural Development, Agricultural University of Athens (2025– )\n\nEuropean Commission – Joint Research Centre (JRC), D4 Economics of the Food System (2019–2025)\n\nEuropean Association of Agricultural Economists (member since 2017)\n\nAgricultural Economics Society (member since 2023)"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Dimitrios Kremmydas",
+    "section": "",
+    "text": "PhD in Agricultural Economics\nAgricultural University of Athens (2013–2019)\nDissertation: Integrated agent-based model of Greek agriculture for policy analysis\nDeveloped the GREFAM model and integrated agent-based, micro-economic, and DSS frameworks.\nMSc in Integrated Rural Development\nAgricultural University of Athens (2004–2006)\nThesis: Measuring Support and Protection in the Agricultural Sector: The Case of Greece\nBSc in Computer Science\nHellenic Open University (2004–2009)\nThesis: Parallel Algorithms for Scientific Computing in Cluster Environments\nBSc in Agricultural Economics and Rural Development\nAgricultural University of Athens (1995–2002)\nThesis: The Consumption of Ready-Made Meals in Greece"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Do organic farming policies need to be more target-oriented to achieve sustainability?\nRey Vicario, D., Kremmydas, D., Baldoni, E., Ciaian, P., & Tillie, P. Journal of environmental management, 394, 127342. https://doi.org/10.1016/j.jenvman.2025.127342\nCompares three EU organic conversion strategies (action-based, result-based, and combined) using IFM-CAP. Result-oriented policy delivers higher GHG reductions per euro by targeting high‑emitting livestock farms but is costlier and may miss the 25% area target. Action‑oriented policy is cheaper and closer to the 25% area goal but achieves lower emission reductions. Recommendation: target farms with greater emission‑reduction potential rather than only expanding converted area.\n\n\n\nClosing the EU protein gap – drivers, synergies and trade-offs\nHristov, J., Tassinari, G., Himics, M., Beber, C., Barbosa, A.L., Isbasoiu, A., Klinnert, A.,\nKremmydas, D., Tillie, P., & Fellmann, T.\nPublications Office of the European Union.\nThe EU target for organic farming: Potential economic and environmental impacts\nKremmydas, D., Beber, C. L., et al.\nApplied Economic Perspectives and Policy.\n\n\n\nModeling conversion to organic agriculture with an EU-wide farm model\nKremmydas, D.; Ciaian, P.; Baldoni, E.\nBio-based and Applied Economics.\nFarm-level impacts of the CAP post-2020 reform: A scenario-based analysis\nPetsakos, A., Ciaian, P., Espinosa, M., Perni, A., & Kremmydas, D.\nApplied Economic Perspectives and Policy, 45(2), 1168–1188.\nAgro-economic–environmental modelling in the context of the Green Deal\nFellmann, T.; Genovese, G.; Antonioli, F.; et al., incl. Kremmydas, D.\nPublications Office of the European Union.\n\n\n\nRedistribution and the abolishment of historical entitlements in the CAP Strategic Plans\nKremmydas, D., & Tsiboukas, K.\nSustainability, 14(2), 735.\n\n\n\nThe EU-Wide Individual Farm Model for CAP Analysis (IFM-CAP v.2)\nKremmydas, D., Petsakos, A., Ciaian, P., Baldoni, E., & Tillie, P.\nJoint Research Centre, JRC127014.\nThe Evolution of Decision Support Systems for Agriculture\nKremmydas, D.; Konstantinis, A.; Rozakis, S.\nIn EURO Working Group on DSS, Springer.\nA design for a generic and modular bio-economic farm model\nBritz, W.; Ciaian, P.; Gocht, A.; Kanellopoulos, A.; Kremmydas, D. et al.\nAgricultural Systems, 191, 103133.\n\n\n\nThe Matthew effect of a journal’s ranking\nDrivas, K., & Kremmydas, D.\nResearch Policy, 49(4), 103951.\n\n\n\nA review of agent-based modeling for agricultural policy evaluation\nKremmydas, D.; Athanasiadis, I.N.; Rozakis, S.\nAgricultural Systems, 164, 95–106.\nAllocating Shadow Prices in a Multi-objective Chance Constrained Problem of Biodiesel Blending\nCaldeira, C., Dias, L., Freire, F., Kremmydas, D., & Rozakis, S.\nIn Multicriteria Analysis in Agriculture, Springer.\n\n\n\nThe impact of different energy policy options on feedstock price and land demand\nBartoli, A.; Cavicchioli, D.; Kremmydas, D.; Rozakis, S.; Olper, A.\nEnergy Policy, 96, 351–363.\nData warehouse technology for agricultural policy data: a Greek case study\nMaliappis, M.T.; & Kremmydas, D.\nInternational Journal of Sustainable Agricultural Management and Informatics, 2(2–4), 243–262.\n\n\n\nFood Inflation in the European Union: Distribution Analysis and Spatial Effects\nLiontakis, A., & Kremmydas, D.\nGeographical Analysis, 46(2), 148–164.\nStraw potential for energy purposes in Poland\nRozakis, S.; Kremmydas, D.; Pudełko, R.; Borzęcka-Walker, M.; Faber, A.\nBiomass and Bioenergy, 58, 275–285.\nHighly scalable parallelization of standard simplex method\nMamalis, B.; Pantziou, G.; Dimitropoulos, G.; Kremmydas, D.\nInternational Journal of Computers and Applications, 35(4), 152–161.\nParametric Optimization of Linear and Non-Linear Models via Parallel Computing\nKremmydas, D.; Petsakos, A.; Rozakis, S.\nInternational Journal of Decision Support System Technology, 4(1), 14–29.\nSupport and protection of Greek agriculture\nKaranikolas, P.; Bourdaras, D.; Kremmydas, D.; Martinos, N.\nSouth-Eastern Europe Journal of Economics, 6(2)."
+  },
+  {
+    "objectID": "research.html#section",
+    "href": "research.html#section",
+    "title": "Research",
+    "section": "",
+    "text": "Do organic farming policies need to be more target-oriented to achieve sustainability?\nRey Vicario, D., Kremmydas, D., Baldoni, E., Ciaian, P., & Tillie, P. Journal of environmental management, 394, 127342. https://doi.org/10.1016/j.jenvman.2025.127342\nCompares three EU organic conversion strategies (action-based, result-based, and combined) using IFM-CAP. Result-oriented policy delivers higher GHG reductions per euro by targeting high‑emitting livestock farms but is costlier and may miss the 25% area target. Action‑oriented policy is cheaper and closer to the 25% area goal but achieves lower emission reductions. Recommendation: target farms with greater emission‑reduction potential rather than only expanding converted area."
+  },
+  {
+    "objectID": "research.html#section-1",
+    "href": "research.html#section-1",
+    "title": "Research",
+    "section": "",
+    "text": "Closing the EU protein gap – drivers, synergies and trade-offs\nHristov, J., Tassinari, G., Himics, M., Beber, C., Barbosa, A.L., Isbasoiu, A., Klinnert, A.,\nKremmydas, D., Tillie, P., & Fellmann, T.\nPublications Office of the European Union.\nThe EU target for organic farming: Potential economic and environmental impacts\nKremmydas, D., Beber, C. L., et al.\nApplied Economic Perspectives and Policy."
+  },
+  {
+    "objectID": "research.html#section-2",
+    "href": "research.html#section-2",
+    "title": "Research",
+    "section": "",
+    "text": "Modeling conversion to organic agriculture with an EU-wide farm model\nKremmydas, D.; Ciaian, P.; Baldoni, E.\nBio-based and Applied Economics.\nFarm-level impacts of the CAP post-2020 reform: A scenario-based analysis\nPetsakos, A., Ciaian, P., Espinosa, M., Perni, A., & Kremmydas, D.\nApplied Economic Perspectives and Policy, 45(2), 1168–1188.\nAgro-economic–environmental modelling in the context of the Green Deal\nFellmann, T.; Genovese, G.; Antonioli, F.; et al., incl. Kremmydas, D.\nPublications Office of the European Union."
+  },
+  {
+    "objectID": "research.html#section-3",
+    "href": "research.html#section-3",
+    "title": "Research",
+    "section": "",
+    "text": "Redistribution and the abolishment of historical entitlements in the CAP Strategic Plans\nKremmydas, D., & Tsiboukas, K.\nSustainability, 14(2), 735."
+  },
+  {
+    "objectID": "research.html#section-4",
+    "href": "research.html#section-4",
+    "title": "Research",
+    "section": "",
+    "text": "The EU-Wide Individual Farm Model for CAP Analysis (IFM-CAP v.2)\nKremmydas, D., Petsakos, A., Ciaian, P., Baldoni, E., & Tillie, P.\nJoint Research Centre, JRC127014.\nThe Evolution of Decision Support Systems for Agriculture\nKremmydas, D.; Konstantinis, A.; Rozakis, S.\nIn EURO Working Group on DSS, Springer.\nA design for a generic and modular bio-economic farm model\nBritz, W.; Ciaian, P.; Gocht, A.; Kanellopoulos, A.; Kremmydas, D. et al.\nAgricultural Systems, 191, 103133."
+  },
+  {
+    "objectID": "research.html#section-5",
+    "href": "research.html#section-5",
+    "title": "Research",
+    "section": "",
+    "text": "The Matthew effect of a journal’s ranking\nDrivas, K., & Kremmydas, D.\nResearch Policy, 49(4), 103951."
+  },
+  {
+    "objectID": "research.html#section-6",
+    "href": "research.html#section-6",
+    "title": "Research",
+    "section": "",
+    "text": "A review of agent-based modeling for agricultural policy evaluation\nKremmydas, D.; Athanasiadis, I.N.; Rozakis, S.\nAgricultural Systems, 164, 95–106.\nAllocating Shadow Prices in a Multi-objective Chance Constrained Problem of Biodiesel Blending\nCaldeira, C., Dias, L., Freire, F., Kremmydas, D., & Rozakis, S.\nIn Multicriteria Analysis in Agriculture, Springer."
+  },
+  {
+    "objectID": "research.html#section-7",
+    "href": "research.html#section-7",
+    "title": "Research",
+    "section": "",
+    "text": "The impact of different energy policy options on feedstock price and land demand\nBartoli, A.; Cavicchioli, D.; Kremmydas, D.; Rozakis, S.; Olper, A.\nEnergy Policy, 96, 351–363.\nData warehouse technology for agricultural policy data: a Greek case study\nMaliappis, M.T.; & Kremmydas, D.\nInternational Journal of Sustainable Agricultural Management and Informatics, 2(2–4), 243–262."
+  },
+  {
+    "objectID": "research.html#and-before",
+    "href": "research.html#and-before",
+    "title": "Research",
+    "section": "",
+    "text": "Food Inflation in the European Union: Distribution Analysis and Spatial Effects\nLiontakis, A., & Kremmydas, D.\nGeographical Analysis, 46(2), 148–164.\nStraw potential for energy purposes in Poland\nRozakis, S.; Kremmydas, D.; Pudełko, R.; Borzęcka-Walker, M.; Faber, A.\nBiomass and Bioenergy, 58, 275–285.\nHighly scalable parallelization of standard simplex method\nMamalis, B.; Pantziou, G.; Dimitropoulos, G.; Kremmydas, D.\nInternational Journal of Computers and Applications, 35(4), 152–161.\nParametric Optimization of Linear and Non-Linear Models via Parallel Computing\nKremmydas, D.; Petsakos, A.; Rozakis, S.\nInternational Journal of Decision Support System Technology, 4(1), 14–29.\nSupport and protection of Greek agriculture\nKaranikolas, P.; Bourdaras, D.; Kremmydas, D.; Martinos, N.\nSouth-Eastern Europe Journal of Economics, 6(2)."
+  },
+  {
+    "objectID": "research.html#section-8",
+    "href": "research.html#section-8",
+    "title": "Research",
+    "section": "2025",
+    "text": "2025\nXVIII EAAE Congress, Bonn, Germany\n– Maximizing Policy Impact: The Value of Information in Designing Agri-environmental Policy\n– Environmental and Economic Impacts of a Tax on Mineral N Fertilizers\n– Farm-level effects of the Enhanced Conditionality in the CAP\n– Presentations in Organized Sessions (IFM-CAP calibration, sustainable practices, water modelling)."
+  },
+  {
+    "objectID": "research.html#section-9",
+    "href": "research.html#section-9",
+    "title": "Research",
+    "section": "2024",
+    "text": "2024\n– ERSA 2024: Drought effects on agricultural productivity\n– ICAE 2024, New Delhi\n– EcoMod2024, Izmir: Deep learning–based emulation\n– EAERE 2024, Leuven: Organic farming policy targeting"
+  },
+  {
+    "objectID": "research.html#section-10",
+    "href": "research.html#section-10",
+    "title": "Research",
+    "section": "2023",
+    "text": "2023\n– XVII EAAE Congress, Rennes\n– AES Annual Conference, Warwick University (Invited plenary speaker)"
+  },
+  {
+    "objectID": "research.html#section-11",
+    "href": "research.html#section-11",
+    "title": "Research",
+    "section": "2022",
+    "text": "2022\n– 181st EAAE Seminar, Berlin: Organic conversion modelling"
+  },
+  {
+    "objectID": "research.html#section-12",
+    "href": "research.html#section-12",
+    "title": "Research",
+    "section": "2021",
+    "text": "2021\n– ETAGRO Conference, Athens\n– XIII Congreso de Economía Agroalimentaria, Cartagena, Spain"
+  },
+  {
+    "objectID": "research.html#section-13",
+    "href": "research.html#section-13",
+    "title": "Research",
+    "section": "2019",
+    "text": "2019\n– 172nd EAAE Seminar, Brussels\n– HAICTA 2017 (Revised Papers 2019): CAP 2020 Regionalization DSS"
+  },
+  {
+    "objectID": "research.html#section-14",
+    "href": "research.html#section-14",
+    "title": "Research",
+    "section": "2018",
+    "text": "2018\n– 167th EAAE Seminar, Puławy\n– 162nd EAAE Seminar, Budapest\n– HAICTA 2017, Chania"
+  },
+  {
+    "objectID": "research.html#and-before-1",
+    "href": "research.html#and-before-1",
+    "title": "Research",
+    "section": "2015 and before",
+    "text": "2015 and before\n– HAICTA 2015, Kavala\n– BALCOR 2011, Thessaloniki\n– IASTED PDCN 2011, Innsbruck"
+  },
+  {
+    "objectID": "research.html#hydrosense",
+    "href": "research.html#hydrosense",
+    "title": "Research",
+    "section": "HYDROSENSE",
+    "text": "HYDROSENSE\nxxx"
+  },
+  {
+    "objectID": "research.html#mindstep",
+    "href": "research.html#mindstep",
+    "title": "Research",
+    "section": "MINDSTEP",
+    "text": "MINDSTEP\nxxx"
+  },
+  {
+    "objectID": "research.html#tools4cap",
+    "href": "research.html#tools4cap",
+    "title": "Research",
+    "section": "TOOLS4CAP",
+    "text": "TOOLS4CAP\nxxxx"
+  }
+]
