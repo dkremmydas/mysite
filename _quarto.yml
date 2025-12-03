@@ -24,8 +24,12 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Research"
-        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Conferences"
+        href: publications.qmd
+      - text: "Projects"
+        href: projects.qmd                
       - text: "Teaching"
         href: teaching.qmd
       - text: "Blog"

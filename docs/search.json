@@ -21,25 +21,32 @@
     "text": "Teaching\n\nMaastricht University, Netherlands\n\nBehavioral Economics (TA in 2015, 2016)\n\nGraduate course\nCourse coordinator: Prof. Dr. Thomas Dohmen\nDuties: teaching, grading, contributing to curriculum design\nTeaching evaluation: 8.8 / 10 (N=21)\n\nPersonnel Economics (TA in 2015, 2016, 2017)\n\nUndergraduate course\nCourse coordinator: Dr. Steffen Künn\nDuties: teaching, grading, contributing to curriculum design\nMy teaching evaluation: 9.3 / 10 (N=70)\n\nPresentation Skills (TA in 2015)\n\nUndergraduate course\nStudent evaluation: 8.7/10"
   },
   {
-    "objectID": "posts/2022-01-01-R-website/index.html",
-    "href": "posts/2022-01-01-R-website/index.html",
-    "title": "Creating an academic website using RMarkdown",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research",
     "section": "",
-    "text": "These are the resources I used to make my own website. I tried different things (Wordpress, Squarespace, Jekyll…), and I find that the easiest way by far to create a static website is to use R and host your page via Github Pages. Github allows you to host your website for free, update it super quickly, and will never bug (unlike those sneaker ruby gem updates for your Jekyll page…) :-) Sure, you could make your page using Google Sites, but making your own page from scratch is much more fun!\n\nStart from Emily Zabor’s super simple guide here. Run through the complete guide first, before tweaking the design.\nLearn the basics of RMarkdown to create your own content:\n\nRMarkdown basics here\nMore RMarkdown basics here\nMaking websites using RMarkdown here\n\nThen tweak the design of your website by digging into more advanced topics using more complete guides:\n\nThis online book here\nYan Holtz’s RMarkdown tips here\nAcademic Icons (e.g. for your contact list) here\n\nNote: for more control, you may want to learn a bit about HTML for organizing content and CSS for styling."
+    "text": "xxx"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "projects.html#hydrosense",
+    "href": "projects.html#hydrosense",
+    "title": "Research",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\nJan 1, 2022\n\n\nCreating an academic website using RMarkdown\n\n\nCoding\n\n\n\n\n\n\nNo matching items"
+    "text": "xxx"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "objectID": "projects.html#mindstep",
+    "href": "projects.html#mindstep",
+    "title": "Research",
+    "section": "MINDSTEP",
+    "text": "MINDSTEP\nxxx"
+  },
+  {
+    "objectID": "projects.html#tools4cap",
+    "href": "projects.html#tools4cap",
+    "title": "Research",
+    "section": "TOOLS4CAP",
+    "text": "TOOLS4CAP\nxxxx"
   },
   {
     "objectID": "index.html",
@@ -63,150 +70,157 @@
     "text": "PhD in Agricultural Economics\nAgricultural University of Athens (2013–2019)\nDissertation: Integrated agent-based model of Greek agriculture for policy analysis\nDissertation (PDF)\nMSc in Integrated Rural Development\nAgricultural University of Athens (2004–2006)\nThesis: Measuring Support and Protection in the Agricultural Sector: The Case of Greece\nBSc in Computer Science\nHellenic Open University (2004–2009)\nThesis: Parallel Algorithms for Scientific Computing in Cluster Environments\nBSc in Agricultural Economics and Rural Development\nAgricultural University of Athens (1995–2002)\nThesis: The Consumption of Ready-Made Meals in Greece"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Do organic farming policies need to be more target-oriented to achieve sustainability?\nRey Vicario, D., Kremmydas, D., Baldoni, E., Ciaian, P., & Tillie, P. Journal of environmental management, 394, 127342 doi.org/10.1016/j.jenvman.2025.127342.\nCompares three EU organic conversion strategies (action-based, result-based, and combined) using IFM-CAP. Result-oriented policy delivers higher GHG reductions per euro by targeting high‑emitting livestock farms but is costlier and may miss the 25% area target. Action‑oriented policy is cheaper and closer to the 25% area goal but achieves lower emission reductions. Recommendation: target farms with greater emission‑reduction potential rather than only expanding converted area. Download \n\n\n\nClosing the EU protein gap – drivers, synergies and trade-offs\nHristov, J., Tassinari, G., Himics, M., Beber, C., Barbosa, A.L., Isbasoiu, A., Klinnert, A., Kremmydas, D., Tillie, P., & Fellmann, T., JRC Report, Publications Office of the European Union, ISBΝ dx.doi.org/10.2760/84255\nThe report argues that EU protein policy must link plant-protein supply with food- and feed-sector demand. It evaluates four scenarios: supporting protein crops, changing feed practices, restructuring livestock, and shifting to plant-based diets. Results show that combining supply- and demand-side changes brings the largest environmental gains and reduces reliance on imported protein. An integrated strategy is needed to support farmers, strengthen resilience, and manage impacts during the transition.\n\nThe EU target for organic farming: Potential economic and environmental impacts Kremmydas, D., Beber, C., Baldoni, E., Ciaian, P., Fellmann, T., Gocht, A., Hristov, J., Pignotti, D., Rey Vicario, D., Stepanyan, D., & Tillie, P. Applied Economic Perspectives and Policy, 47(2), 602-623 doi.org/10.1002/aepp.13470\nThe EU aims to reach 25% of the total agricultural area under organic farming by 2030. Interlinking a farm-level and agro-economic market model, we assess impacts of achieving the target either at Member State or aggregated EU level. Results show that flexible budget allocation across Member States would be more cost-efficient and less detrimental to EU production. Conversely, targeting at Member State level proves more effective in generating greater aggregated and more evenly distributed environmental benefits across EU regions. The results indicate the importance of leveraging tailored approaches to optimize organic farming outcomes across the EU. Download \n\n\n\nModeling conversion to organic agriculture with an EU-wide farm model\nKremmydas, D.; Ciaian, P.; Baldoni, E.\nBio-Based and Applied Economics, 12(4), 261–304. doi.org/10.36253/bae-13925\nThe paper evaluates the EU Farm to Fork target of reaching 25% organic farmland by 2030 using a farm-level model. It compares two ways of modelling conversions to organic farming: an endogenous approach, where farmers decide based on utility differences, and an exogenous approach, based on econometric estimates of conversion likelihood. Results differ by method: farm income changes range from a 3.8% increase (endogenous) to a 1.3% decrease (exogenous). Both approaches, however, predict lower agricultural production (between 0.5% and 15%) for most crops and livestock products if the target is met. Download \nFarm-level impacts of the CAP post-2020 reform: A scenario-based analysis\nPetsakos, A., Ciaian, P., Espinosa, M., Perni, A., & Kremmydas, D.\nApplied Economic Perspectives and Policy, 45(2), 1168–1188. doi.org/10.1002/aepp.13257\nThe paper analyzes the farm-level economic and environmental impacts of the post-2020 reform of the Common Agricultural Policy (CAP) of the European Union, examining six scenarios constructed around the budget allocated to eco-schemes and the stringency of enhanced conditionality. Results suggest that the CAP post-2020 can improve environmental performance but at a cost for farms. Enhanced conditionality appears to play a greater role than eco-schemes in delivering environmental improvements. The new CAP provides the Member States ample options to choose among different measures. The optimal policy mix will depend on the balancing of income support versus environmental performance that reflects policy priorities. Download \nAgro-economic–environmental modelling in the context of the Green Deal\nFellmann, T.; Genovese, G.; Antonioli, F.; et al., incl. Kremmydas, D.\nJRC Report, Publications Office of the European Union, ISBΝ 978-92-68-10181-0 (online) dx.doi.org/10.2760/123978\niMAP is a modelling platform supporting the European Commission in assessing policies for sustainable food systems, with major development driven by DG AGRI. The report presents iMAP’s expanded capacity to analyse production, environmental, and Green Deal–related policy impacts, thanks to integration of biophysical models and satellite data. Despite these advances, modelling environmental and consumer-related aspects remains limited by data gaps and biological complexity. Overall, iMAP—enhanced through interdisciplinary tools—offers a strong framework for evaluating Green Deal policies, though key uncertainties still constrain full assessment of the transition to sustainable food systems. \n\n\n\nRedistribution and the abolishment of historical entitlements in the CAP Strategic Plans\nKremmydas, D., & Tsiboukas, K.\nSustainability, 14(2), 735. doi.org/10.3390/su14020735\nA key issue in CAP strategic planning in Greece is the treatment of historical entitlements. An unequal level of payments per hectare is difficult to justify in terms of the CAP’s rationale, and so the abolishment of these entitlements seems to be the most reasonable option. However, for historical reasons, this abolishment may result in a transfer of payments from smaller to larger farms and between different agricultural sub-sectors which could in turn lead to negative effects on the incomes of small farms and lead to farmers leaving the sector. We simulate the change to a flat rate payment in order to quantify these effects, then explore the possibility of employing the new obligatory redistribution measure, termed complementary income support, to mitigate any negative effects. We conclude that redistribution is, indeed, a powerful tool for fine-tuning decoupled payments if historical entitlements are to be abolished. Download \n\n\n\nThe EU-Wide Individual Farm Model for CAP Analysis (IFM-CAP v.2)\nKremmydas, D., Petsakos, A., Ciaian, P., Baldoni, E., & Tillie, P.\nJRC Report, Publications Office of the European Union, ISBΝ 1831-9424 (online) dx.doi.org/10.2760/248136\nThe report presents IFM-CAP V.2, an EU-wide individual farm-level model used to assess post-2020 CAP reform impacts on farm economics and the environment. It addresses the need for a micro-simulation tool that captures farm-specific policies and the heterogeneity of EU farms. Using Positive Mathematical Programming, the model improves policy assessment quality and analyzes distributional effects across 83,292 FADN farms. The report details the model’s design, mathematical structure, data preparation, livestock modelling, input allocation, CAP modelling, and calibration, along with its theoretical basis and output capabilities. \nThe Evolution of Decision Support Systems for Agriculture\nKremmydas, D.; Konstantinis, A.; Rozakis, S.\nIn EURO Working Group on DSS, Springer. doi.org/10.1007/978-3-030-70377-6_6\nWe use the Scopus database and naïve Bayes text classification to identify almost a thousand and a half DSS papers targeting problems in agriculture during the last three decades. We then use bibliometric network analysis to establish the chronological trends regarding the methodologies, the technologies, the topics, and their interrelation. We also provide insights into the evolution of international research and academic community cooperation and specialization. Download \nA design for a generic and modular bio-economic farm model\nBritz, W.; Ciaian, P.; Gocht, A.; Kanellopoulos, A.; Kremmydas, D. et al.\nAgricultural Systems, 191, 103133. doi.org/10.1016/j.agsy.2021.103133\nPast assessments highlight the need for a generic, modular BEFM that can be maintained by a network of modellers. Current project-based funding leads to many case-specific models instead of robust, comparable ones. This paper identifies required features and design principles for such a modular tool through literature and model reviews. It proposes concrete steps and a research agenda to build a flexible, network-maintained BEFM for future policy analysis. Download \n\n\n\nThe Matthew effect of a journal’s ranking\nDrivas, K., & Kremmydas, D.\nResearch Policy, 49(4), 103951.\n\n\n\nA review of agent-based modeling for agricultural policy evaluation\nKremmydas, D.; Athanasiadis, I.N.; Rozakis, S.\nAgricultural Systems, 164, 95–106.\nAllocating Shadow Prices in a Multi-objective Chance Constrained Problem of Biodiesel Blending\nCaldeira, C., Dias, L., Freire, F., Kremmydas, D., & Rozakis, S.\nIn Multicriteria Analysis in Agriculture, Springer.\n\n\n\nThe impact of different energy policy options on feedstock price and land demand\nBartoli, A.; Cavicchioli, D.; Kremmydas, D.; Rozakis, S.; Olper, A.\nEnergy Policy, 96, 351–363.\nData warehouse technology for agricultural policy data: a Greek case study\nMaliappis, M.T.; & Kremmydas, D.\nInternational Journal of Sustainable Agricultural Management and Informatics, 2(2–4), 243–262.\n\n\n\nFood Inflation in the European Union: Distribution Analysis and Spatial Effects\nLiontakis, A., & Kremmydas, D.\nGeographical Analysis, 46(2), 148–164.\nStraw potential for energy purposes in Poland\nRozakis, S.; Kremmydas, D.; Pudełko, R.; Borzęcka-Walker, M.; Faber, A.\nBiomass and Bioenergy, 58, 275–285.\nHighly scalable parallelization of standard simplex method\nMamalis, B.; Pantziou, G.; Dimitropoulos, G.; Kremmydas, D.\nInternational Journal of Computers and Applications, 35(4), 152–161.\nParametric Optimization of Linear and Non-Linear Models via Parallel Computing\nKremmydas, D.; Petsakos, A.; Rozakis, S.\nInternational Journal of Decision Support System Technology, 4(1), 14–29.\nSupport and protection of Greek agriculture\nKaranikolas, P.; Bourdaras, D.; Kremmydas, D.; Martinos, N.\nSouth-Eastern Europe Journal of Economics, 6(2)."
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\nJan 1, 2022\n\n\nCreating an academic website using RMarkdown\n\n\nCoding\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "research.html#section",
-    "href": "research.html#section",
-    "title": "Research",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Do organic farming policies need to be more target-oriented to achieve sustainability?\nRey Vicario, D., Kremmydas, D., Baldoni, E., Ciaian, P., & Tillie, P. Journal of environmental management, 394, 127342 doi.org/10.1016/j.jenvman.2025.127342.\nCompares three EU organic conversion strategies (action-based, result-based, and combined) using IFM-CAP. Result-oriented policy delivers higher GHG reductions per euro by targeting high‑emitting livestock farms but is costlier and may miss the 25% area target. Action‑oriented policy is cheaper and closer to the 25% area goal but achieves lower emission reductions. Recommendation: target farms with greater emission‑reduction potential rather than only expanding converted area. Download"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "research.html#section-1",
-    "href": "research.html#section-1",
-    "title": "Research",
+    "objectID": "conferences.html",
+    "href": "conferences.html",
+    "title": "Conferences",
     "section": "",
-    "text": "Closing the EU protein gap – drivers, synergies and trade-offs\nHristov, J., Tassinari, G., Himics, M., Beber, C., Barbosa, A.L., Isbasoiu, A., Klinnert, A., Kremmydas, D., Tillie, P., & Fellmann, T., JRC Report, Publications Office of the European Union, ISBΝ dx.doi.org/10.2760/84255\nThe report argues that EU protein policy must link plant-protein supply with food- and feed-sector demand. It evaluates four scenarios: supporting protein crops, changing feed practices, restructuring livestock, and shifting to plant-based diets. Results show that combining supply- and demand-side changes brings the largest environmental gains and reduces reliance on imported protein. An integrated strategy is needed to support farmers, strengthen resilience, and manage impacts during the transition.\n\nThe EU target for organic farming: Potential economic and environmental impacts Kremmydas, D., Beber, C., Baldoni, E., Ciaian, P., Fellmann, T., Gocht, A., Hristov, J., Pignotti, D., Rey Vicario, D., Stepanyan, D., & Tillie, P. Applied Economic Perspectives and Policy, 47(2), 602-623 doi.org/10.1002/aepp.13470\nThe EU aims to reach 25% of the total agricultural area under organic farming by 2030. Interlinking a farm-level and agro-economic market model, we assess impacts of achieving the target either at Member State or aggregated EU level. Results show that flexible budget allocation across Member States would be more cost-efficient and less detrimental to EU production. Conversely, targeting at Member State level proves more effective in generating greater aggregated and more evenly distributed environmental benefits across EU regions. The results indicate the importance of leveraging tailored approaches to optimize organic farming outcomes across the EU. Download"
+    "text": "XVIII EAAE Congress, Bonn, Germany\n– Maximizing Policy Impact: The Value of Information in Designing Agri-environmental Policy\n– Environmental and Economic Impacts of a Tax on Mineral N Fertilizers\n– Farm-level effects of the Enhanced Conditionality in the CAP\n– Presentations in Organized Sessions (IFM-CAP calibration, sustainable practices, water modelling)."
   },
   {
-    "objectID": "research.html#section-2",
-    "href": "research.html#section-2",
-    "title": "Research",
+    "objectID": "conferences.html#section",
+    "href": "conferences.html#section",
+    "title": "Conferences",
     "section": "",
-    "text": "Modeling conversion to organic agriculture with an EU-wide farm model\nKremmydas, D.; Ciaian, P.; Baldoni, E.\nBio-Based and Applied Economics, 12(4), 261–304. doi.org/10.36253/bae-13925\nThe paper evaluates the EU Farm to Fork target of reaching 25% organic farmland by 2030 using a farm-level model. It compares two ways of modelling conversions to organic farming: an endogenous approach, where farmers decide based on utility differences, and an exogenous approach, based on econometric estimates of conversion likelihood. Results differ by method: farm income changes range from a 3.8% increase (endogenous) to a 1.3% decrease (exogenous). Both approaches, however, predict lower agricultural production (between 0.5% and 15%) for most crops and livestock products if the target is met. Download \nFarm-level impacts of the CAP post-2020 reform: A scenario-based analysis\nPetsakos, A., Ciaian, P., Espinosa, M., Perni, A., & Kremmydas, D.\nApplied Economic Perspectives and Policy, 45(2), 1168–1188. doi.org/10.1002/aepp.13257\nThe paper analyzes the farm-level economic and environmental impacts of the post-2020 reform of the Common Agricultural Policy (CAP) of the European Union, examining six scenarios constructed around the budget allocated to eco-schemes and the stringency of enhanced conditionality. Results suggest that the CAP post-2020 can improve environmental performance but at a cost for farms. Enhanced conditionality appears to play a greater role than eco-schemes in delivering environmental improvements. The new CAP provides the Member States ample options to choose among different measures. The optimal policy mix will depend on the balancing of income support versus environmental performance that reflects policy priorities. Download \nAgro-economic–environmental modelling in the context of the Green Deal\nFellmann, T.; Genovese, G.; Antonioli, F.; et al., incl. Kremmydas, D.\nJRC Report, Publications Office of the European Union, ISBΝ 978-92-68-10181-0 (online) dx.doi.org/10.2760/123978\niMAP is a modelling platform supporting the European Commission in assessing policies for sustainable food systems, with major development driven by DG AGRI. The report presents iMAP’s expanded capacity to analyse production, environmental, and Green Deal–related policy impacts, thanks to integration of biophysical models and satellite data. Despite these advances, modelling environmental and consumer-related aspects remains limited by data gaps and biological complexity. Overall, iMAP—enhanced through interdisciplinary tools—offers a strong framework for evaluating Green Deal policies, though key uncertainties still constrain full assessment of the transition to sustainable food systems."
+    "text": "XVIII EAAE Congress, Bonn, Germany\n– Maximizing Policy Impact: The Value of Information in Designing Agri-environmental Policy\n– Environmental and Economic Impacts of a Tax on Mineral N Fertilizers\n– Farm-level effects of the Enhanced Conditionality in the CAP\n– Presentations in Organized Sessions (IFM-CAP calibration, sustainable practices, water modelling)."
   },
   {
-    "objectID": "research.html#section-3",
-    "href": "research.html#section-3",
-    "title": "Research",
-    "section": "",
-    "text": "Redistribution and the abolishment of historical entitlements in the CAP Strategic Plans\nKremmydas, D., & Tsiboukas, K.\nSustainability, 14(2), 735. doi.org/10.3390/su14020735\nA key issue in CAP strategic planning in Greece is the treatment of historical entitlements. An unequal level of payments per hectare is difficult to justify in terms of the CAP’s rationale, and so the abolishment of these entitlements seems to be the most reasonable option. However, for historical reasons, this abolishment may result in a transfer of payments from smaller to larger farms and between different agricultural sub-sectors which could in turn lead to negative effects on the incomes of small farms and lead to farmers leaving the sector. We simulate the change to a flat rate payment in order to quantify these effects, then explore the possibility of employing the new obligatory redistribution measure, termed complementary income support, to mitigate any negative effects. We conclude that redistribution is, indeed, a powerful tool for fine-tuning decoupled payments if historical entitlements are to be abolished. Download"
-  },
-  {
-    "objectID": "research.html#section-4",
-    "href": "research.html#section-4",
-    "title": "Research",
-    "section": "",
-    "text": "The EU-Wide Individual Farm Model for CAP Analysis (IFM-CAP v.2)\nKremmydas, D., Petsakos, A., Ciaian, P., Baldoni, E., & Tillie, P.\nJRC Report, Publications Office of the European Union, ISBΝ 1831-9424 (online) dx.doi.org/10.2760/248136\nThe report presents IFM-CAP V.2, an EU-wide individual farm-level model used to assess post-2020 CAP reform impacts on farm economics and the environment. It addresses the need for a micro-simulation tool that captures farm-specific policies and the heterogeneity of EU farms. Using Positive Mathematical Programming, the model improves policy assessment quality and analyzes distributional effects across 83,292 FADN farms. The report details the model’s design, mathematical structure, data preparation, livestock modelling, input allocation, CAP modelling, and calibration, along with its theoretical basis and output capabilities. \nThe Evolution of Decision Support Systems for Agriculture\nKremmydas, D.; Konstantinis, A.; Rozakis, S.\nIn EURO Working Group on DSS, Springer. doi.org/10.1007/978-3-030-70377-6_6\nWe use the Scopus database and naïve Bayes text classification to identify almost a thousand and a half DSS papers targeting problems in agriculture during the last three decades. We then use bibliometric network analysis to establish the chronological trends regarding the methodologies, the technologies, the topics, and their interrelation. We also provide insights into the evolution of international research and academic community cooperation and specialization. Download \nA design for a generic and modular bio-economic farm model\nBritz, W.; Ciaian, P.; Gocht, A.; Kanellopoulos, A.; Kremmydas, D. et al.\nAgricultural Systems, 191, 103133. doi.org/10.1016/j.agsy.2021.103133\nPast assessments highlight the need for a generic, modular BEFM that can be maintained by a network of modellers. Current project-based funding leads to many case-specific models instead of robust, comparable ones. This paper identifies required features and design principles for such a modular tool through literature and model reviews. It proposes concrete steps and a research agenda to build a flexible, network-maintained BEFM for future policy analysis. Download"
-  },
-  {
-    "objectID": "research.html#section-5",
-    "href": "research.html#section-5",
-    "title": "Research",
-    "section": "",
-    "text": "The Matthew effect of a journal’s ranking\nDrivas, K., & Kremmydas, D.\nResearch Policy, 49(4), 103951."
-  },
-  {
-    "objectID": "research.html#section-6",
-    "href": "research.html#section-6",
-    "title": "Research",
-    "section": "",
-    "text": "A review of agent-based modeling for agricultural policy evaluation\nKremmydas, D.; Athanasiadis, I.N.; Rozakis, S.\nAgricultural Systems, 164, 95–106.\nAllocating Shadow Prices in a Multi-objective Chance Constrained Problem of Biodiesel Blending\nCaldeira, C., Dias, L., Freire, F., Kremmydas, D., & Rozakis, S.\nIn Multicriteria Analysis in Agriculture, Springer."
-  },
-  {
-    "objectID": "research.html#section-7",
-    "href": "research.html#section-7",
-    "title": "Research",
-    "section": "",
-    "text": "The impact of different energy policy options on feedstock price and land demand\nBartoli, A.; Cavicchioli, D.; Kremmydas, D.; Rozakis, S.; Olper, A.\nEnergy Policy, 96, 351–363.\nData warehouse technology for agricultural policy data: a Greek case study\nMaliappis, M.T.; & Kremmydas, D.\nInternational Journal of Sustainable Agricultural Management and Informatics, 2(2–4), 243–262."
-  },
-  {
-    "objectID": "research.html#and-before",
-    "href": "research.html#and-before",
-    "title": "Research",
-    "section": "",
-    "text": "Food Inflation in the European Union: Distribution Analysis and Spatial Effects\nLiontakis, A., & Kremmydas, D.\nGeographical Analysis, 46(2), 148–164.\nStraw potential for energy purposes in Poland\nRozakis, S.; Kremmydas, D.; Pudełko, R.; Borzęcka-Walker, M.; Faber, A.\nBiomass and Bioenergy, 58, 275–285.\nHighly scalable parallelization of standard simplex method\nMamalis, B.; Pantziou, G.; Dimitropoulos, G.; Kremmydas, D.\nInternational Journal of Computers and Applications, 35(4), 152–161.\nParametric Optimization of Linear and Non-Linear Models via Parallel Computing\nKremmydas, D.; Petsakos, A.; Rozakis, S.\nInternational Journal of Decision Support System Technology, 4(1), 14–29.\nSupport and protection of Greek agriculture\nKaranikolas, P.; Bourdaras, D.; Kremmydas, D.; Martinos, N.\nSouth-Eastern Europe Journal of Economics, 6(2)."
-  },
-  {
-    "objectID": "research.html#section-8",
-    "href": "research.html#section-8",
-    "title": "Research",
-    "section": "2025",
-    "text": "2025\nXVIII EAAE Congress, Bonn, Germany\n– Maximizing Policy Impact: The Value of Information in Designing Agri-environmental Policy\n– Environmental and Economic Impacts of a Tax on Mineral N Fertilizers\n– Farm-level effects of the Enhanced Conditionality in the CAP\n– Presentations in Organized Sessions (IFM-CAP calibration, sustainable practices, water modelling)."
-  },
-  {
-    "objectID": "research.html#section-9",
-    "href": "research.html#section-9",
-    "title": "Research",
+    "objectID": "conferences.html#section-1",
+    "href": "conferences.html#section-1",
+    "title": "Conferences",
     "section": "2024",
     "text": "2024\n– ERSA 2024: Drought effects on agricultural productivity\n– ICAE 2024, New Delhi\n– EcoMod2024, Izmir: Deep learning–based emulation\n– EAERE 2024, Leuven: Organic farming policy targeting"
   },
   {
-    "objectID": "research.html#section-10",
-    "href": "research.html#section-10",
-    "title": "Research",
+    "objectID": "conferences.html#section-2",
+    "href": "conferences.html#section-2",
+    "title": "Conferences",
     "section": "2023",
     "text": "2023\n– XVII EAAE Congress, Rennes\n– AES Annual Conference, Warwick University (Invited plenary speaker)"
   },
   {
-    "objectID": "research.html#section-11",
-    "href": "research.html#section-11",
-    "title": "Research",
+    "objectID": "conferences.html#section-3",
+    "href": "conferences.html#section-3",
+    "title": "Conferences",
     "section": "2022",
     "text": "2022\n– 181st EAAE Seminar, Berlin: Organic conversion modelling"
   },
   {
-    "objectID": "research.html#section-12",
-    "href": "research.html#section-12",
-    "title": "Research",
+    "objectID": "conferences.html#section-4",
+    "href": "conferences.html#section-4",
+    "title": "Conferences",
     "section": "2021",
     "text": "2021\n– ETAGRO Conference, Athens\n– XIII Congreso de Economía Agroalimentaria, Cartagena, Spain"
   },
   {
-    "objectID": "research.html#section-13",
-    "href": "research.html#section-13",
-    "title": "Research",
+    "objectID": "conferences.html#section-5",
+    "href": "conferences.html#section-5",
+    "title": "Conferences",
     "section": "2019",
     "text": "2019\n– 172nd EAAE Seminar, Brussels\n– HAICTA 2017 (Revised Papers 2019): CAP 2020 Regionalization DSS"
   },
   {
-    "objectID": "research.html#section-14",
-    "href": "research.html#section-14",
-    "title": "Research",
+    "objectID": "conferences.html#section-6",
+    "href": "conferences.html#section-6",
+    "title": "Conferences",
     "section": "2018",
     "text": "2018\n– 167th EAAE Seminar, Puławy\n– 162nd EAAE Seminar, Budapest\n– HAICTA 2017, Chania"
   },
   {
-    "objectID": "research.html#and-before-1",
-    "href": "research.html#and-before-1",
-    "title": "Research",
+    "objectID": "conferences.html#and-before",
+    "href": "conferences.html#and-before",
+    "title": "Conferences",
     "section": "2015 and before",
     "text": "2015 and before\n– HAICTA 2015, Kavala\n– BALCOR 2011, Thessaloniki\n– IASTED PDCN 2011, Innsbruck"
   },
   {
-    "objectID": "research.html#hydrosense",
-    "href": "research.html#hydrosense",
-    "title": "Research",
-    "section": "HYDROSENSE",
-    "text": "HYDROSENSE\nxxx"
+    "objectID": "posts/2022-01-01-R-website/index.html",
+    "href": "posts/2022-01-01-R-website/index.html",
+    "title": "Creating an academic website using RMarkdown",
+    "section": "",
+    "text": "These are the resources I used to make my own website. I tried different things (Wordpress, Squarespace, Jekyll…), and I find that the easiest way by far to create a static website is to use R and host your page via Github Pages. Github allows you to host your website for free, update it super quickly, and will never bug (unlike those sneaker ruby gem updates for your Jekyll page…) :-) Sure, you could make your page using Google Sites, but making your own page from scratch is much more fun!\n\nStart from Emily Zabor’s super simple guide here. Run through the complete guide first, before tweaking the design.\nLearn the basics of RMarkdown to create your own content:\n\nRMarkdown basics here\nMore RMarkdown basics here\nMaking websites using RMarkdown here\n\nThen tweak the design of your website by digging into more advanced topics using more complete guides:\n\nThis online book here\nYan Holtz’s RMarkdown tips here\nAcademic Icons (e.g. for your contact list) here\n\nNote: for more control, you may want to learn a bit about HTML for organizing content and CSS for styling."
   },
   {
-    "objectID": "research.html#mindstep",
-    "href": "research.html#mindstep",
-    "title": "Research",
-    "section": "MINDSTEP",
-    "text": "MINDSTEP\nxxx"
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Do organic farming policies need to be more target-oriented to achieve sustainability?\nRey Vicario, D., Kremmydas, D., Baldoni, E., Ciaian, P., & Tillie, P. Journal of environmental management, 394, 127342 doi.org/10.1016/j.jenvman.2025.127342.\nCompares three EU organic conversion strategies (action-based, result-based, and combined) using IFM-CAP. Result-oriented policy delivers higher GHG reductions per euro by targeting high‑emitting livestock farms but is costlier and may miss the 25% area target. Action‑oriented policy is cheaper and closer to the 25% area goal but achieves lower emission reductions. Recommendation: target farms with greater emission‑reduction potential rather than only expanding converted area. Download"
   },
   {
-    "objectID": "research.html#tools4cap",
-    "href": "research.html#tools4cap",
-    "title": "Research",
-    "section": "TOOLS4CAP",
-    "text": "TOOLS4CAP\nxxxx"
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Do organic farming policies need to be more target-oriented to achieve sustainability?\nRey Vicario, D., Kremmydas, D., Baldoni, E., Ciaian, P., & Tillie, P. Journal of environmental management, 394, 127342 doi.org/10.1016/j.jenvman.2025.127342.\nCompares three EU organic conversion strategies (action-based, result-based, and combined) using IFM-CAP. Result-oriented policy delivers higher GHG reductions per euro by targeting high‑emitting livestock farms but is costlier and may miss the 25% area target. Action‑oriented policy is cheaper and closer to the 25% area goal but achieves lower emission reductions. Recommendation: target farms with greater emission‑reduction potential rather than only expanding converted area. Download"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\nClosing the EU protein gap – drivers, synergies and trade-offs\nHristov, J., Tassinari, G., Himics, M., Beber, C., Barbosa, A.L., Isbasoiu, A., Klinnert, A., Kremmydas, D., Tillie, P., & Fellmann, T., JRC Report, Publications Office of the European Union, ISBΝ dx.doi.org/10.2760/84255\nThe report argues that EU protein policy must link plant-protein supply with food- and feed-sector demand. It evaluates four scenarios: supporting protein crops, changing feed practices, restructuring livestock, and shifting to plant-based diets. Results show that combining supply- and demand-side changes brings the largest environmental gains and reduces reliance on imported protein. An integrated strategy is needed to support farmers, strengthen resilience, and manage impacts during the transition.\n\nThe EU target for organic farming: Potential economic and environmental impacts Kremmydas, D., Beber, C., Baldoni, E., Ciaian, P., Fellmann, T., Gocht, A., Hristov, J., Pignotti, D., Rey Vicario, D., Stepanyan, D., & Tillie, P. Applied Economic Perspectives and Policy, 47(2), 602-623 doi.org/10.1002/aepp.13470\nThe EU aims to reach 25% of the total agricultural area under organic farming by 2030. Interlinking a farm-level and agro-economic market model, we assess impacts of achieving the target either at Member State or aggregated EU level. Results show that flexible budget allocation across Member States would be more cost-efficient and less detrimental to EU production. Conversely, targeting at Member State level proves more effective in generating greater aggregated and more evenly distributed environmental benefits across EU regions. The results indicate the importance of leveraging tailored approaches to optimize organic farming outcomes across the EU. Download"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\nModeling conversion to organic agriculture with an EU-wide farm model\nKremmydas, D.; Ciaian, P.; Baldoni, E.\nBio-Based and Applied Economics, 12(4), 261–304. doi.org/10.36253/bae-13925\nThe paper evaluates the EU Farm to Fork target of reaching 25% organic farmland by 2030 using a farm-level model. It compares two ways of modelling conversions to organic farming: an endogenous approach, where farmers decide based on utility differences, and an exogenous approach, based on econometric estimates of conversion likelihood. Results differ by method: farm income changes range from a 3.8% increase (endogenous) to a 1.3% decrease (exogenous). Both approaches, however, predict lower agricultural production (between 0.5% and 15%) for most crops and livestock products if the target is met. Download \nFarm-level impacts of the CAP post-2020 reform: A scenario-based analysis\nPetsakos, A., Ciaian, P., Espinosa, M., Perni, A., & Kremmydas, D.\nApplied Economic Perspectives and Policy, 45(2), 1168–1188. doi.org/10.1002/aepp.13257\nThe paper analyzes the farm-level economic and environmental impacts of the post-2020 reform of the Common Agricultural Policy (CAP) of the European Union, examining six scenarios constructed around the budget allocated to eco-schemes and the stringency of enhanced conditionality. Results suggest that the CAP post-2020 can improve environmental performance but at a cost for farms. Enhanced conditionality appears to play a greater role than eco-schemes in delivering environmental improvements. The new CAP provides the Member States ample options to choose among different measures. The optimal policy mix will depend on the balancing of income support versus environmental performance that reflects policy priorities. Download \nAgro-economic–environmental modelling in the context of the Green Deal\nFellmann, T.; Genovese, G.; Antonioli, F.; et al., incl. Kremmydas, D.\nJRC Report, Publications Office of the European Union, ISBΝ 978-92-68-10181-0 (online) dx.doi.org/10.2760/123978\niMAP is a modelling platform supporting the European Commission in assessing policies for sustainable food systems, with major development driven by DG AGRI. The report presents iMAP’s expanded capacity to analyse production, environmental, and Green Deal–related policy impacts, thanks to integration of biophysical models and satellite data. Despite these advances, modelling environmental and consumer-related aspects remains limited by data gaps and biological complexity. Overall, iMAP—enhanced through interdisciplinary tools—offers a strong framework for evaluating Green Deal policies, though key uncertainties still constrain full assessment of the transition to sustainable food systems."
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\nRedistribution and the abolishment of historical entitlements in the CAP Strategic Plans\nKremmydas, D., & Tsiboukas, K.\nSustainability, 14(2), 735. doi.org/10.3390/su14020735\nA key issue in CAP strategic planning in Greece is the treatment of historical entitlements. An unequal level of payments per hectare is difficult to justify in terms of the CAP’s rationale, and so the abolishment of these entitlements seems to be the most reasonable option. However, for historical reasons, this abolishment may result in a transfer of payments from smaller to larger farms and between different agricultural sub-sectors which could in turn lead to negative effects on the incomes of small farms and lead to farmers leaving the sector. We simulate the change to a flat rate payment in order to quantify these effects, then explore the possibility of employing the new obligatory redistribution measure, termed complementary income support, to mitigate any negative effects. We conclude that redistribution is, indeed, a powerful tool for fine-tuning decoupled payments if historical entitlements are to be abolished. Download"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\nThe EU-Wide Individual Farm Model for CAP Analysis (IFM-CAP v.2)\nKremmydas, D., Petsakos, A., Ciaian, P., Baldoni, E., & Tillie, P.\nJRC Report, Publications Office of the European Union, ISBΝ 1831-9424 (online) dx.doi.org/10.2760/248136\nThe report presents IFM-CAP V.2, an EU-wide individual farm-level model used to assess post-2020 CAP reform impacts on farm economics and the environment. It addresses the need for a micro-simulation tool that captures farm-specific policies and the heterogeneity of EU farms. Using Positive Mathematical Programming, the model improves policy assessment quality and analyzes distributional effects across 83,292 FADN farms. The report details the model’s design, mathematical structure, data preparation, livestock modelling, input allocation, CAP modelling, and calibration, along with its theoretical basis and output capabilities. \nThe Evolution of Decision Support Systems for Agriculture\nKremmydas, D.; Konstantinis, A.; Rozakis, S.\nIn EURO Working Group on DSS, Springer. doi.org/10.1007/978-3-030-70377-6_6\nWe use the Scopus database and naïve Bayes text classification to identify almost a thousand and a half DSS papers targeting problems in agriculture during the last three decades. We then use bibliometric network analysis to establish the chronological trends regarding the methodologies, the technologies, the topics, and their interrelation. We also provide insights into the evolution of international research and academic community cooperation and specialization. Download \nA design for a generic and modular bio-economic farm model\nBritz, W.; Ciaian, P.; Gocht, A.; Kanellopoulos, A.; Kremmydas, D. et al.\nAgricultural Systems, 191, 103133. doi.org/10.1016/j.agsy.2021.103133\nPast assessments highlight the need for a generic, modular BEFM that can be maintained by a network of modellers. Current project-based funding leads to many case-specific models instead of robust, comparable ones. This paper identifies required features and design principles for such a modular tool through literature and model reviews. It proposes concrete steps and a research agenda to build a flexible, network-maintained BEFM for future policy analysis. Download"
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\nThe Matthew effect of a journal’s ranking\nDrivas, K., & Kremmydas, D.\nResearch Policy, 49(4), 103951. doi.org/10.1016/j.respol.2020.10395\nThe paper examines the impact of a journal’s ranking on the citations its papers garner. Our testbed is journals included in the early annual publications of the Academic Journal Guide, published by the Association of Business Schools from 2007 to 2010. By focusing on a small subset of these journals, we provide causal evidence that an increase in a journal’s ranking will increase citations to its papers. We argue that this increase can be attributed to (i) more authors learning about and viewing these outlets and their publications and (ii) researchers signalling their paper’s own impact by citing highly ranked journals. We find some evidence for the former, though not robust, and substantial evidence for the latter. Given that signalling is deliberate and associated with incentives to publish in highly ranked journals, we decompose this channel by citing researchers’ characteristics. Except for senior academics, all types of researchers are consistent with signalling. The policy implications of our results relate to the pervasive use of journal rankings and recent initiatives to evaluate research. Download"
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Publications",
+    "section": "2018",
+    "text": "2018\nA review of agent-based modeling for agricultural policy evaluation\nKremmydas, D.; Athanasiadis, I.N.; Rozakis, S.\nAgricultural Systems, 164, 95–106. doi.org/10.1016/j.agsy.2018.03.010\nFarm level scale policy analysis is receiving increased attention due to a changing agricultural policy orientation. Agent based models (ABM) are farm level models that have appeared in the end of 1990’s, having several differences from traditional farm level models, like the consideration of interactions between farms, the way markets are simulated, the inclusion of agents’ bounded rationality, behavioral heterogeneity, etc. Considering the potential of ABMs to complement existing farm level models and that they are a relatively recent approach with a growing demand for new models and modelers, we perform a systematic literature review to (a) consolidate in a consistent and transparent way the literature status on policy evaluation ABMs; (b) examine the status of the literature regarding model transparency; the modeling of the agents’ decision processes; and the creation of the initial population. Download \nAllocating Shadow Prices in a Multi-objective Chance Constrained Problem of Biodiesel Blending\nCaldeira, C., Dias, L., Freire, F., Kremmydas, D., & Rozakis, S.\nIn Multicriteria Analysis in Agriculture, Springer."
+  },
+  {
+    "objectID": "publications.html#section-7",
+    "href": "publications.html#section-7",
+    "title": "Publications",
+    "section": "2016",
+    "text": "2016\nThe impact of different energy policy options on feedstock price and land demand\nBartoli, A.; Cavicchioli, D.; Kremmydas, D.; Rozakis, S.; Olper, A.\nEnergy Policy, 96, 351–363.\nData warehouse technology for agricultural policy data: a Greek case study\nMaliappis, M.T.; & Kremmydas, D.\nInternational Journal of Sustainable Agricultural Management and Informatics, 2(2–4), 243–262."
+  },
+  {
+    "objectID": "publications.html#and-before",
+    "href": "publications.html#and-before",
+    "title": "Publications",
+    "section": "2015 and before",
+    "text": "2015 and before\nFood Inflation in the European Union: Distribution Analysis and Spatial Effects\nLiontakis, A., & Kremmydas, D.\nGeographical Analysis, 46(2), 148–164.\nStraw potential for energy purposes in Poland\nRozakis, S.; Kremmydas, D.; Pudełko, R.; Borzęcka-Walker, M.; Faber, A.\nBiomass and Bioenergy, 58, 275–285.\nHighly scalable parallelization of standard simplex method\nMamalis, B.; Pantziou, G.; Dimitropoulos, G.; Kremmydas, D.\nInternational Journal of Computers and Applications, 35(4), 152–161.\nParametric Optimization of Linear and Non-Linear Models via Parallel Computing\nKremmydas, D.; Petsakos, A.; Rozakis, S.\nInternational Journal of Decision Support System Technology, 4(1), 14–29.\nSupport and protection of Greek agriculture\nKaranikolas, P.; Bourdaras, D.; Kremmydas, D.; Martinos, N.\nSouth-Eastern Europe Journal of Economics, 6(2)."
   }
 ]

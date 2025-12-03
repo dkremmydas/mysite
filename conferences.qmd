@@ -1,0 +1,45 @@
+---
+title: "Conferences"
+toc: true
+toc-location: right 
+link-external-newwindow: true
+---
+
+## 2025
+**XVIII EAAE Congress**, Bonn, Germany  
+– *Maximizing Policy Impact: The Value of Information in Designing Agri-environmental Policy*  
+– *Environmental and Economic Impacts of a Tax on Mineral N Fertilizers*  
+– *Farm-level effects of the Enhanced Conditionality in the CAP*  
+– Presentations in Organized Sessions (IFM-CAP calibration, sustainable practices, water modelling).
+
+## 2024
+– **ERSA 2024**: Drought effects on agricultural productivity  
+– **ICAE 2024**, New Delhi  
+– **EcoMod2024**, Izmir: Deep learning–based emulation  
+– **EAERE 2024**, Leuven: Organic farming policy targeting
+
+## 2023
+– **XVII EAAE Congress**, Rennes  
+– **AES Annual Conference**, Warwick University (Invited plenary speaker)
+
+## 2022
+– **181st EAAE Seminar**, Berlin: Organic conversion modelling
+
+## 2021
+– **ETAGRO Conference**, Athens  
+– **XIII Congreso de Economía Agroalimentaria**, Cartagena, Spain
+
+## 2019
+– **172nd EAAE Seminar**, Brussels  
+– **HAICTA 2017 (Revised Papers 2019)**: CAP 2020 Regionalization DSS
+
+## 2018
+– **167th EAAE Seminar**, Puławy  
+– **162nd EAAE Seminar**, Budapest  
+– **HAICTA 2017**, Chania
+
+## 2015 and before
+– **HAICTA 2015**, Kavala
+
+– **BALCOR 2011**, Thessaloniki  
+– **IASTED PDCN 2011**, Innsbruck
