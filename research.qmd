@@ -64,19 +64,36 @@ Fellmann, T.; Genovese, G.; Antonioli, F.; et al., incl. Kremmydas, D.
 **Redistribution and the abolishment of historical entitlements in the CAP Strategic Plans**  
 Kremmydas, D., & Tsiboukas, K.  
 *Sustainability*, 14(2), 735.
+[doi.org/10.3390/su14020735](https://doi.org/10.3390/su14020735){target="_blank"}
+
+<small>A key issue in CAP strategic planning in Greece is the treatment of historical entitlements. An unequal level of payments per hectare is difficult to justify in terms of the CAP’s rationale, and so the abolishment of these entitlements seems to be the most reasonable option. However, for historical reasons, this abolishment may result in a transfer of payments from smaller to larger farms and between different agricultural sub-sectors which could in turn lead to negative effects on the incomes of small farms and lead to farmers leaving the sector. We simulate the change to a flat rate payment in order to quantify these effects, then explore the possibility of employing the new obligatory redistribution measure, termed complementary income support, to mitigate any negative effects. We conclude that redistribution is, indeed, a powerful tool for fine-tuning decoupled payments if historical entitlements are to be abolished. [Download]({{< meta site-url >}}/papers/2022_Kremmydas_redistribution.pdf){target="_blank"}</small>
+<br><br><br>
 
 ## 2021
 **The EU-Wide Individual Farm Model for CAP Analysis (IFM-CAP v.2)**  
 Kremmydas, D., Petsakos, A., Ciaian, P., Baldoni, E., & Tillie, P.  
-Joint Research Centre, JRC127014.
+*JRC Report*, Publications Office of the European Union, ISBΝ 1831-9424 (online)
+[dx.doi.org/10.2760/248136](https://dx.doi.org/10.2760/248136){target="_blank"}
+
+<small>The report presents IFM-CAP V.2, an EU-wide individual farm-level model used to assess post-2020 CAP reform impacts on farm economics and the environment.
+It addresses the need for a micro-simulation tool that captures farm-specific policies and the heterogeneity of EU farms. Using Positive Mathematical Programming, the model improves policy assessment quality and analyzes distributional effects across 83,292 FADN farms. The report details the model’s design, mathematical structure, data preparation, livestock modelling, input allocation, CAP modelling, and calibration, along with its theoretical basis and output capabilities.</small>
+<br><br>
 
 **The Evolution of Decision Support Systems for Agriculture**  
 Kremmydas, D.; Konstantinis, A.; Rozakis, S.  
 In *EURO Working Group on DSS*, Springer.
+[doi.org/10.1007/978-3-030-70377-6_6](https://doi.org/10.1007/978-3-030-70377-6_6){target="_blank"}
+
+<small>We use the Scopus database and naïve Bayes text classification to identify almost a thousand and a half DSS papers targeting problems in agriculture during the last three decades. We then use bibliometric network analysis to establish the chronological trends regarding the methodologies, the technologies, the topics, and their interrelation. We also provide insights into the evolution of international research and academic community cooperation and specialization. [Download]({{< meta site-url >}}/papers/2021_Kremmydas_ecolution_of_DSS.pdf){target="_blank"}</small>
+<br><br>
 
 **A design for a generic and modular bio-economic farm model**  
 Britz, W.; Ciaian, P.; Gocht, A.; Kanellopoulos, A.; Kremmydas, D. et al.  
 *Agricultural Systems*, 191, 103133.
+[doi.org/10.1016/j.agsy.2021.103133](https://doi.org/10.1016/j.agsy.2021.103133){target="_blank"}
+
+<small>Past assessments highlight the need for a generic, modular BEFM that can be maintained by a network of modellers. Current project-based funding leads to many case-specific models instead of robust, comparable ones. This paper identifies required features and design principles for such a modular tool through literature and model reviews. It proposes concrete steps and a research agenda to build a flexible, network-maintained BEFM for future policy analysis. [Download]({{< meta site-url >}}/papers/2021_Britz_bioeconomic_model.pdf){target="_blank"}</small>
+<br><br><br>
 
 ## 2020
 **The Matthew effect of a journal's ranking**  
