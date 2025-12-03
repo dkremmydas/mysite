@@ -10,26 +10,34 @@ link-external-newwindow: true
 ## 2025
 **Do organic farming policies need to be more target-oriented to achieve sustainability?**  
 Rey Vicario, D., Kremmydas, D., Baldoni, E., Ciaian, P., & Tillie, P. 
-Journal of environmental management, 394, 127342, [doi.org/10.1016/j.jenvman.2025.127342](https://doi.org/10.1016/j.jenvman.2025.127342){target="_blank"}.
+*Journal of environmental management*, 394, 127342, [doi.org/10.1016/j.jenvman.2025.127342](https://doi.org/10.1016/j.jenvman.2025.127342){target="_blank"}.
 
-<small>Compares three EU organic conversion strategies (action-based, result-based, and combined) using IFM-CAP. Result-oriented policy delivers higher GHG reductions per euro by targeting high‑emitting livestock farms but is costlier and may miss the 25% area target. Action‑oriented policy is cheaper and closer to the 25% area goal but achieves lower emission reductions. Recommendation: target farms with greater emission‑reduction potential rather than only expanding converted area.
-<a href="https://dkremmydas.github.io/mysite/papers/2025_JEMA-D-24-29526.pdf">Download</small>
-
+<small>Compares three EU organic conversion strategies (action-based, result-based, and combined) using IFM-CAP. Result-oriented policy delivers higher GHG reductions per euro by targeting high‑emitting livestock farms but is costlier and may miss the 25% area target. Action‑oriented policy is cheaper and closer to the 25% area goal but achieves lower emission reductions. Recommendation: target farms with greater emission‑reduction potential rather than only expanding converted area. [Download]({{< meta site-url >}}/papers/2025_JEMA-D-24-29526.pdf){target="_blank"}</small>
+<br><br><br>
+  
 
 ## 2024
 **Closing the EU protein gap – drivers, synergies and trade-offs**  
-Hristov, J., Tassinari, G., Himics, M., Beber, C., Barbosa, A.L., Isbasoiu, A., Klinnert, A.,  
-Kremmydas, D., Tillie, P., & Fellmann, T.  
-Publications Office of the European Union.
+Hristov, J., Tassinari, G., Himics, M., Beber, C., Barbosa, A.L., Isbasoiu, A., Klinnert, A., Kremmydas, D., Tillie, P., & Fellmann, T., 
+*JRC Report*, Publications Office of the European Union, ISBN , [dx.doi.org/10.2760/84255](https://dx.doi.org/10.2760/84255){target="_blank"}
 
-**The EU target for organic farming: Potential economic and environmental impacts**  
-Kremmydas, D., Beber, C. L., et al.  
-*Applied Economic Perspectives and Policy.*
+<small>The report argues that EU protein policy must link plant-protein supply with food- and feed-sector demand. It evaluates four scenarios: supporting protein crops, changing feed practices, restructuring livestock, and shifting to plant-based diets. Results show that combining supply- and demand-side changes brings the largest environmental gains and reduces reliance on imported protein.
+An integrated strategy is needed to support farmers, strengthen resilience, and manage impacts during the transition.</small>  
+<br><br>
+
+**The EU target for organic farming: Potential economic and environmental impacts** 
+Kremmydas, D., Beber, C., Baldoni, E., Ciaian, P., Fellmann, T., Gocht, A., Hristov, J., Pignotti, D., Rey Vicario, D., Stepanyan, D., & Tillie, P. 
+*Applied Economic Perspectives and Policy*, 47(2), 602-623. [doi.org/10.1002/aepp.13470](https://doi.org/10.1002/aepp.13470){target="_bank"} 
+
+<small>The EU aims to reach 25% of the total agricultural area under organic farming by 2030. Interlinking a farm-level and agro-economic market model, we assess impacts of achieving the target either at Member State or aggregated EU level. Results show that flexible budget allocation across Member States would be more cost-efficient and less detrimental to EU production. Conversely, targeting at Member State level proves more effective in generating greater aggregated and more evenly distributed environmental benefits across EU regions. The results indicate the importance of leveraging tailored approaches to optimize organic farming outcomes across the EU. [Download]({{< meta site-url >}}/papers/2024_AEPP_Kremmydas.pdf){target="_blank"}</small>
+<br><br><br>
 
 ## 2023
 **Modeling conversion to organic agriculture with an EU-wide farm model**  
 Kremmydas, D.; Ciaian, P.; Baldoni, E.  
-*Bio-based and Applied Economics.*
+*Bio-Based and Applied Economics*, 12(4), 261–304. https://doi.org/10.36253/bae-13925
+<small>The paper evaluates the EU Farm to Fork target of reaching 25% organic farmland by 2030 using a farm-level model. It compares two ways of modelling conversions to organic farming: an endogenous approach, where farmers decide based on utility differences, and an exogenous approach, based on econometric estimates of conversion likelihood. Results differ by method: farm income changes range from a 3.8% increase (endogenous) to a 1.3% decrease (exogenous). Both approaches, however, predict lower agricultural production (between 0.5% and 15%) for most crops and livestock products if the target is met. [Download]({{< meta site-url >}}/papers/2023_Biobased_Kremmydas.pdf){target="_blank"}</small>
+<br><br>
 
 **Farm-level impacts of the CAP post-2020 reform: A scenario-based analysis**  
 Petsakos, A., Ciaian, P., Espinosa, M., Perni, A., & Kremmydas, D.  

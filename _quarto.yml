@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+metadata:
+  site-url: "https://dkremmydas.github.io/mysite"
+
 render:
   - "*.qmd"
 
