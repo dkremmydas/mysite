@@ -27,13 +27,13 @@ website:
       - text: "Publications"
         href: publications.qmd
       - text: "Conferences"
-        href: publications.qmd
+        href: conferences.qmd
       - text: "Projects"
         href: projects.qmd                
       - text: "Teaching"
         href: teaching.qmd
-      - text: "Blog"
-        href: blog.qmd   
+      #- text: "Blog"
+      #  href: blog.qmd   
       - text: "CV"
         href: files/dkremmydas_cv.pdf
         target: _blank

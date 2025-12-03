@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research projects"
 toc: true
 toc-location: right 
 link-external-newwindow: true
