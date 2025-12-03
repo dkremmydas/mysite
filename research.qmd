@@ -10,7 +10,8 @@ link-external-newwindow: true
 ## 2025
 **Do organic farming policies need to be more target-oriented to achieve sustainability?**  
 Rey Vicario, D., Kremmydas, D., Baldoni, E., Ciaian, P., & Tillie, P. 
-*Journal of environmental management*, 394, 127342, [doi.org/10.1016/j.jenvman.2025.127342](https://doi.org/10.1016/j.jenvman.2025.127342){target="_blank"}.
+*Journal of environmental management*, 394, 127342 
+[doi.org/10.1016/j.jenvman.2025.127342](https://doi.org/10.1016/j.jenvman.2025.127342){target="_blank"}.
 
 <small>Compares three EU organic conversion strategies (action-based, result-based, and combined) using IFM-CAP. Result-oriented policy delivers higher GHG reductions per euro by targeting high‑emitting livestock farms but is costlier and may miss the 25% area target. Action‑oriented policy is cheaper and closer to the 25% area goal but achieves lower emission reductions. Recommendation: target farms with greater emission‑reduction potential rather than only expanding converted area. [Download]({{< meta site-url >}}/papers/2025_JEMA-D-24-29526.pdf){target="_blank"}</small>
 <br><br><br>
@@ -19,7 +20,8 @@ Rey Vicario, D., Kremmydas, D., Baldoni, E., Ciaian, P., & Tillie, P.
 ## 2024
 **Closing the EU protein gap – drivers, synergies and trade-offs**  
 Hristov, J., Tassinari, G., Himics, M., Beber, C., Barbosa, A.L., Isbasoiu, A., Klinnert, A., Kremmydas, D., Tillie, P., & Fellmann, T., 
-*JRC Report*, Publications Office of the European Union, ISBN , [dx.doi.org/10.2760/84255](https://dx.doi.org/10.2760/84255){target="_blank"}
+*JRC Report*, Publications Office of the European Union, ISBΝ
+[dx.doi.org/10.2760/84255](https://dx.doi.org/10.2760/84255){target="_blank"}
 
 <small>The report argues that EU protein policy must link plant-protein supply with food- and feed-sector demand. It evaluates four scenarios: supporting protein crops, changing feed practices, restructuring livestock, and shifting to plant-based diets. Results show that combining supply- and demand-side changes brings the largest environmental gains and reduces reliance on imported protein.
 An integrated strategy is needed to support farmers, strengthen resilience, and manage impacts during the transition.</small>  
@@ -27,25 +29,36 @@ An integrated strategy is needed to support farmers, strengthen resilience, and 
 
 **The EU target for organic farming: Potential economic and environmental impacts** 
 Kremmydas, D., Beber, C., Baldoni, E., Ciaian, P., Fellmann, T., Gocht, A., Hristov, J., Pignotti, D., Rey Vicario, D., Stepanyan, D., & Tillie, P. 
-*Applied Economic Perspectives and Policy*, 47(2), 602-623. [doi.org/10.1002/aepp.13470](https://doi.org/10.1002/aepp.13470){target="_bank"} 
+*Applied Economic Perspectives and Policy*, 47(2), 602-623
+[doi.org/10.1002/aepp.13470](https://doi.org/10.1002/aepp.13470){target="_blank"} 
 
-<small>The EU aims to reach 25% of the total agricultural area under organic farming by 2030. Interlinking a farm-level and agro-economic market model, we assess impacts of achieving the target either at Member State or aggregated EU level. Results show that flexible budget allocation across Member States would be more cost-efficient and less detrimental to EU production. Conversely, targeting at Member State level proves more effective in generating greater aggregated and more evenly distributed environmental benefits across EU regions. The results indicate the importance of leveraging tailored approaches to optimize organic farming outcomes across the EU. [Download]({{< meta site-url >}}/papers/2024_AEPP_Kremmydas.pdf){target="_blank"}</small>
+<small>The EU aims to reach 25% of the total agricultural area under organic farming by 2030. Interlinking a farm-level and agro-economic market model, we assess impacts of achieving the target either at Member State or aggregated EU level. Results show that flexible budget allocation across Member States would be more cost-efficient and less detrimental to EU production. Conversely, targeting at Member State level proves more effective in generating greater aggregated and more evenly distributed environmental benefits across EU regions. The results indicate the importance of leveraging tailored approaches to optimize organic farming outcomes across the EU. [Download]({{< meta site-url >}}/papers/2024_AEPP_organic_Kremmydas.pdf){target="_blank"}</small>
 <br><br><br>
 
 ## 2023
 **Modeling conversion to organic agriculture with an EU-wide farm model**  
 Kremmydas, D.; Ciaian, P.; Baldoni, E.  
-*Bio-Based and Applied Economics*, 12(4), 261–304. https://doi.org/10.36253/bae-13925
+*Bio-Based and Applied Economics*, 12(4), 261–304.
+[doi.org/10.36253/bae-13925](https://doi.org/10.36253/bae-13925){target="_blank"}
+
 <small>The paper evaluates the EU Farm to Fork target of reaching 25% organic farmland by 2030 using a farm-level model. It compares two ways of modelling conversions to organic farming: an endogenous approach, where farmers decide based on utility differences, and an exogenous approach, based on econometric estimates of conversion likelihood. Results differ by method: farm income changes range from a 3.8% increase (endogenous) to a 1.3% decrease (exogenous). Both approaches, however, predict lower agricultural production (between 0.5% and 15%) for most crops and livestock products if the target is met. [Download]({{< meta site-url >}}/papers/2023_Biobased_Kremmydas.pdf){target="_blank"}</small>
 <br><br>
 
 **Farm-level impacts of the CAP post-2020 reform: A scenario-based analysis**  
 Petsakos, A., Ciaian, P., Espinosa, M., Perni, A., & Kremmydas, D.  
 *Applied Economic Perspectives and Policy*, 45(2), 1168–1188.
+[doi.org/10.1002/aepp.13257](https://doi.org/10.1002/aepp.13257){target="_blank"}
+
+<small>The paper analyzes the farm-level economic and environmental impacts of the post-2020 reform of the Common Agricultural Policy (CAP) of the European Union, examining six scenarios constructed around the budget allocated to eco-schemes and the stringency of enhanced conditionality. Results suggest that the CAP post-2020 can improve environmental performance but at a cost for farms. Enhanced conditionality appears to play a greater role than eco-schemes in delivering environmental improvements. The new CAP provides the Member States ample options to choose among different measures. The optimal policy mix will depend on the balancing of income support versus environmental performance that reflects policy priorities. [Download]({{< meta site-url >}}/papers/2023_AEPP_Kremmydas_Legal_proposal.pdf){target="_blank"}</small>
+<br><br>
 
 **Agro-economic–environmental modelling in the context of the Green Deal**  
 Fellmann, T.; Genovese, G.; Antonioli, F.; et al., incl. Kremmydas, D.  
-Publications Office of the European Union.
+*JRC Report*, Publications Office of the European Union, ISBΝ 978-92-68-10181-0 (online)
+[dx.doi.org/10.2760/123978](https://dx.doi.org/10.2760/123978){target="_blank"}
+
+<small>iMAP is a modelling platform supporting the European Commission in assessing policies for sustainable food systems, with major development driven by DG AGRI. The report presents iMAP’s expanded capacity to analyse production, environmental, and Green Deal–related policy impacts, thanks to integration of biophysical models and satellite data. Despite these advances, modelling environmental and consumer-related aspects remains limited by data gaps and biological complexity. Overall, iMAP—enhanced through interdisciplinary tools—offers a strong framework for evaluating Green Deal policies, though key uncertainties still constrain full assessment of the transition to sustainable food systems.</small>
+<br><br><br>
 
 ## 2022
 **Redistribution and the abolishment of historical entitlements in the CAP Strategic Plans**  
