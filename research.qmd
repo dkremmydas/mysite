@@ -10,9 +10,11 @@ link-external-newwindow: true
 ## 2025
 **Do organic farming policies need to be more target-oriented to achieve sustainability?**  
 Rey Vicario, D., Kremmydas, D., Baldoni, E., Ciaian, P., & Tillie, P. 
-Journal of environmental management, 394, 127342. https://doi.org/10.1016/j.jenvman.2025.127342
+Journal of environmental management, 394, 127342, [doi.org/10.1016/j.jenvman.2025.127342](https://doi.org/10.1016/j.jenvman.2025.127342){target="_blank"}.
 
-<small>Compares three EU organic conversion strategies (action-based, result-based, and combined) using IFM-CAP. Result-oriented policy delivers higher GHG reductions per euro by targeting high‑emitting livestock farms but is costlier and may miss the 25% area target. Action‑oriented policy is cheaper and closer to the 25% area goal but achieves lower emission reductions. Recommendation: target farms with greater emission‑reduction potential rather than only expanding converted area.</small>
+<small>Compares three EU organic conversion strategies (action-based, result-based, and combined) using IFM-CAP. Result-oriented policy delivers higher GHG reductions per euro by targeting high‑emitting livestock farms but is costlier and may miss the 25% area target. Action‑oriented policy is cheaper and closer to the 25% area goal but achieves lower emission reductions. Recommendation: target farms with greater emission‑reduction potential rather than only expanding converted area.
+<a href="https://dkremmydas.github.io/mysite/papers/2025_JEMA-D-24-29526.pdf">Download</small>
+
 
 ## 2024
 **Closing the EU protein gap – drivers, synergies and trade-offs**  

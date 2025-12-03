@@ -12,37 +12,36 @@ about:
 
 :::{#ppc}
 
-I am an **Assistant Professor of Decision Making in Farm Management** at the  
-**Department of Agricultural Economics and Rural Development**, Agricultural University of Athens.  
+I am an **Assistant Professor of Decision Making in Farm Management** at the [Department of Agricultural Economics and Rural Development](https://aoa.aua.gr){target="_blank"} at the Agricultural University of Athens in Greece.  
 
-From **2019 to 2025**, I worked as an **Economic Modeller and Deputy Team Leader** at the  
-**European Commission’s Joint Research Centre (JRC), Unit D4 – Economics of the Food System** in Seville, Spain.  
+From 2019 to 2025, I worked as an **Economic Modeller and Deputy Team Leader** at the European Commission’s Joint Research Centre (JRC), Unit D4 – Economics of the Food System in Seville, Spain.  
 
-My work focused on quantitative socio-economic analysis related to the Green Deal, the Farm to Fork Strategy, CAP, and EU food systems, including organic farming, sustainable farming practices, nitrogen taxation, fertilizer price impacts, GAEC adoption costs, CAP simplification, and modelling of CAP Strategic Plans.
+My research focuses on quantitative socio-economic analysis and modelling of food systems and agricultural policy, with applications to the Green Deal, Farm to Fork, CAP and related EU and national policies. I investigate environmental and socioeconomic dimensions such as sustainable farming practices, climate change mitigation and adaptation, food security and resilience, nutrient and fertilizer management, and market and price impacts. I use integrated modelling, scenario analysis and impact assessment to support policy design, evaluation and decision making.
 
-I am the **main developer of the IFM-CAP** EU-wide farm model, have collaborated extensively with DG AGRI (including SCENAR2040 and FSDN design), and participated in the EU Horizon projects **MINDSTEP** and **TOOLS4CAP**.  
-My technical work spans micro-data processing, econometrics, spatial analysis, machine learning for micro-data synthesis, and advanced policy modelling.
+My earlier academic experience (2006–2019) includes research and teaching at the Agricultural University of Athens, covering data collection and analysis, model development, project management, grant writing, teaching, supervision, and curriculum design.
 
-My earlier academic experience (2010–2019) includes research and teaching at the Agricultural University of Athens, covering data collection and analysis, model development, project management, grant writing, teaching, supervision, and curriculum design.  
-I previously worked as a researcher and technical assistant (2006–2010) and as a researcher for the magazine *Olive and olive oil*.
+I am the lead developer and maintainer of [IFM-CAP](https://publications.jrc.ec.europa.eu/repository/handle/JRC127014){target="_blank"}, an EU-wide farm-level model that simulates farmers' production and management decisions to evaluate the impacts of the Common Agricultural Policy (CAP) and other agricultural policies. Built on FADN/FSDN microdata, IFM-CAP integrates farm heterogeneity, biophysical constraints and economic behaviour to assess environmental, production and income outcomes under alternative scenarios.
+
 
 ## Affiliations
 
-- **Department of Agricultural Economics and Rural Development**, Agricultural University of Athens (2025– )  
-- **European Commission – Joint Research Centre (JRC)**, D4 Economics of the Food System (2019–2025)  
-- **European Association of Agricultural Economists** (member since 2017)  
-- **Agricultural Economics Society** (member since 2023)
+- Department of Agricultural Economics and Rural Development, Agricultural University of Athens (2025– )  
+- European Commission – Joint Research Centre (JRC), D4 Economics of the Food System (2019–2025)  
+- European Association of Agricultural Economists (member since 2017)  
+- Agricultural Economics Society** (member since 2023)
 
 ## Education
 
 - **PhD in Agricultural Economics**  
   Agricultural University of Athens (2013–2019)  
-  Dissertation: *Integrated agent-based model of Greek agriculture for policy analysis*  
-  Developed the GREFAM model and integrated agent-based, micro-economic, and DSS frameworks.
+  Dissertation: **Integrated agent-based model of Greek agriculture for policy analysis**  
+  [Dissertation (PDF)](https://freader.ekt.gr/eadd/index.php?doc=45822){target="_blank"}
+
 
 - **MSc in Integrated Rural Development**  
   Agricultural University of Athens (2004–2006)  
   Thesis: *Measuring Support and Protection in the Agricultural Sector: The Case of Greece*
+
 
 - **BSc in Computer Science**  
   Hellenic Open University (2004–2009)  

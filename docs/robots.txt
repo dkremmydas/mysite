@@ -1,1 +1,1 @@
-Sitemap: https://dkremmydas.github.io/sitemap.xml
+Sitemap: https://dkremmydas.github.io/mysite/sitemap.xml
