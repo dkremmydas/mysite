@@ -6,7 +6,7 @@ toc-location: right
 
 ## Master courses
 
-**Multi-agent analysis for designing resilient agricultural system** 
+**Multi-agent analysis for designing resilient agricultural system**  
 *[2022 - ] Msc Montpellier CIHEAM IAM, International center for Advanced Mediterranean Agronomic Studies*  
 
 <small>Contents: 
@@ -21,7 +21,7 @@ toc-location: right
 - Practical exercise: Application to assess other sustainability issues related to the agricultural systems' transformation</small>
 <br><br>
 
-**Project management**
+**Project management**  
 *[2018, 2019] MSc Entrepreneurship and Consulting in Rural Development, Agricultural University of Athens*
 
 
@@ -47,7 +47,7 @@ toc-location: right
 
 ## Bachelor
 
-**Agricultural Investment appraisal**
+**Agricultural Investment appraisal**  
 *[2016-2019] Department of Agricultural Economics and Rural Development, Agricultural University of Athens, Greece* 
 
 <small>Contents:
@@ -70,7 +70,7 @@ toc-location: right
      - Cost–Volume–Profit (Break-Even) Analysis</small>
 <br><br>
 
-**Farm Management I**
+**Farm Management I**  
 *[2016-2019] Evaluation of Investments in Agriculture, Department of Agricultural Economics and Rural Development, Athens, Greece*
 
 
@@ -92,7 +92,7 @@ toc-location: right
 - Applications at the level of farm</small>
 <br><br>
 
-**Farm Management II**
+**Farm Management II**  
 *[2016-2019] Evaluation of Investments in Agriculture, Department of Agricultural Economics and Rural Development, Athens, Greece*
 
 
@@ -111,7 +111,7 @@ toc-location: right
 
 ## Thesis supervision
 
-**Exploring the different priorities in relation to the goals of the Common Agricultural Policy through the Analytic Hierarchy Process**  
+**Exploring the different priorities in relation to the goals of the Common Agricultural Policy through the Analytic Hierarchy Process**   
 *2018, Bachelor Thesis, Student: TODO*  
 
 <small>The purpose of this work is to use the Analytic Hierarchy Process (AHP) to assess the importance that each objective of the Common Agricultural Policy (CAP) holds for different stakeholders associated with CAP. The thesis contains the following sections: (1) Overview of CAP from its inception to the present concerning policy objectives; (2) Examination of changes in the two most recent CAP revisions in detail (2010-14 and 2015-20) through regulations; (3) Identification of interest groups; (4) The AHP method. Theoretical background, description, example; (5) AHP study regarding the weights assigned by different stakeholder groups to CAP objectives</small>
