@@ -1,37 +1,142 @@
 ---
 title: "Teaching"
+toc: true
+toc-location: right 
 ---
 
-## Student Supervision
+## Master courses
 
-- [2024] Andrew Mallos (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney
-- [2022] Gloria Chen (Economics Honours Thesis), co-supervision with Dr. Siqi Pan, The University of Melbourne
-- [2020] Dane Luo (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney
-- [2020] Angela Zhang (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney
-- [2020] Maxwell Glanville (Economics Honours Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney
-- [2020] Leslie Marsch (Economics Master Thesis), co-supervision with Prof. Stefanie Schurer, The University of Sydney
+**Multi-agent analysis for designing resilient agricultural system** 
+*[2022 - ] Msc Montpellier CIHEAM IAM, International center for Advanced Mediterranean Agronomic Studies*  
 
-## Teaching
+<small>Contents: 
 
-#### Maastricht University, Netherlands
+- Regional modelling of agricultural systems
+- Practical exercise: Application of a regional agroeconomic model to assess changes in farming practices
+- Regional agroeconomic modelling: mid-term analysis 
+- Practical exercise: Impact assessment of changes in agricultural policy measures
+- Regional agroeconomic modelling: long-term analysis
+- Practical exercise: Climate change and adaptation/mitigation scenarios
+- Regional agroeconomic modelling: recent challenges
+- Practical exercise: Application to assess other sustainability issues related to the agricultural systems' transformation</small>
+<br><br>
 
-- Behavioral Economics (TA in 2015, 2016)
-    - Graduate course
-    - Course coordinator: Prof. Dr. Thomas Dohmen
-    - Duties: teaching, grading, contributing to curriculum design
-    - Teaching evaluation: 8.8 / 10  (N=21)
-	
-- Personnel Economics (TA in 2015, 2016, 2017)
-    - Undergraduate course
-    - Course coordinator: Dr. Steffen Künn
-    - Duties: teaching, grading, contributing to curriculum design
-    - My teaching evaluation: 9.3 / 10 (N=70)
+**Project management**
+*[2018, 2019] MSc Entrepreneurship and Consulting in Rural Development, Agricultural University of Athens*
 
-- Presentation Skills (TA in 2015)
-    - Undergraduate course
-    - Student evaluation: 8.7/10 
-    
 
-<!--
-Add separation here between body and footer
--->
+<small>Contents:
+
+- Objectives and constraints of Project Management
+- Project Life Cycle Analysis
+- Project Environment and Stakeholders
+- Project Organization and Analysis
+-  Structural Project Analysis
+-  Organizational Breakdown
+-  Project Time Scheduling
+-  Logical relationships and connections
+-  Gantt Charts 
+-  Critical Path Method (CPM)
+-  Program Evaluation and Review Technique (PERT)
+-  Resource Planning 
+-  Resource Categories
+-  Resource Matching
+-  Loading and leveling of resources. 
+-  Throughout this subunit, particular emphasis is placed on simultaneous learning of Microsoft Project software (or alternatively ProjectLibre) and the practical application of examples.</small>
+<br><br><br>
+
+## Bachelor
+
+**Agricultural Investment appraisal**
+*[2016-2019] Department of Agricultural Economics and Rural Development, Agricultural University of Athens, Greece* 
+
+<small>Contents:
+
+-  FINANCIAL MATHEMATICS 
+     - Simple and Complex Capitalization
+     - Time series payments
+     - Amortization of bond premia/discounts
+
+-  INVESTMENT APPRAISAL 
+     - Traditional investment criteria
+     - The concept of the Time Value of Money
+     - Discounted Cash Flows
+     - Net Present Value
+     - Internal Rate of Return
+     - Investment appraisal under uncertainty
+     - Revisiting the Generally Accepted Accounting Principles
+     - The Cash Flow Statement
+     - Financial evaluation using ratio analysis
+     - Cost–Volume–Profit (Break-Even) Analysis</small>
+<br><br>
+
+**Farm Management I**
+*[2016-2019] Evaluation of Investments in Agriculture, Department of Agricultural Economics and Rural Development, Athens, Greece*
+
+
+<small>Contents:
+
+- Asset appraisal of farms
+- Asset valuation methods
+- Estimation of soil value
+- Estimation of value of perennial plantations (semi-permanent and permanent plantations)
+- Valuation of agricultural machinery
+- Estimation of value of agricultural constructions and land improvements
+- Estimation of value of productive animals
+- Estimation of value of annual crops in progress
+- Costing as an element of efficiency of farms: concept, definition, quantification of production costs, economic results–income–income
+- Cost types, cost categories, cost positions, cost carriers
+- General principles of costing
+- Costing methods
+- Costing techniques
+- Applications at the level of farm</small>
+<br><br>
+
+**Farm Management II**
+*[2016-2019] Evaluation of Investments in Agriculture, Department of Agricultural Economics and Rural Development, Athens, Greece*
+
+
+<small>Contents:
+
+- Technical and economic analysis of farm function (group analysis). Applications in farms
+- Separated analysis of production factors
+- Analysis of the use of agricultural equipment: cost of use compared with the optimum threshold
+- Profitability analysis between two or more machinery items
+- Analysis of human labor (calculation of required and employed labor)
+- Applications to livestock farming
+- Decision making using agricultural budget methods (partial budget, breakeven point budget, parametric budget, cash flow budget, total budget). Applications in farms
+- Decision making using linear programming (graphical method, Simplex algorithm, Big M method, dual problem, sensitivity analysis, transportation problems, transshipment problem, assignment problem). Applications in farms</small>
+<br><br><br>
+
+
+## Thesis supervision
+
+**Exploring the different priorities in relation to the goals of the Common Agricultural Policy through the Analytic Hierarchy Process**  
+*2018, Bachelor Thesis, Student: TODO*  
+
+<small>The purpose of this work is to use the Analytic Hierarchy Process (AHP) to assess the importance that each objective of the Common Agricultural Policy (CAP) holds for different stakeholders associated with CAP. The thesis contains the following sections: (1) Overview of CAP from its inception to the present concerning policy objectives; (2) Examination of changes in the two most recent CAP revisions in detail (2010-14 and 2015-20) through regulations; (3) Identification of interest groups; (4) The AHP method. Theoretical background, description, example; (5) AHP study regarding the weights assigned by different stakeholder groups to CAP objectives</small>
+<br><br>
+
+**Utilization of a Mathematical Programming Model for Extracting Supply Curves: The Case of Arable Crop**  
+*2018, Bachelor Thesis, Student: Konstantina Papadogianni*  
+
+<small>In this bachelor thesis, we calculate supply curves for three arable crops (barley, cotton, hard wheat) in the Thessaly region. This allows us to understand how the production volume of these crops would change in response to potential price fluctuations. The calculations are based on data from the Farm Accountancy Data Network (FADN), a European system that collects annual accounting information from agricultural and livestock enterprises oriented towards the market. By utilizing linear programming, we model the decisions of agricultural enterprises, assuming their goal is to maximize gross profit while considering constraints on production factors. This approach not only helps in deriving the supply curve but also provides a numerical estimate of supply elasticity. Understanding supply elasticity with respect to price is crucial for analyzing the effects of government measures (product taxes) or the impacts of market changes, such as how quickly enterprises can adapt to price fluctuations.</small>
+<br><br>
+
+**Selection of agricultural machinery using the method of Integer Programming**  
+*2018, Bachelor Thesis, Student: Ioannis Andornikos*  
+
+<small>The problem addressed in this specific work is the selection of agricultural machinery with the aim of achieving the minimum possible cost for the farm operation. The cost of using machinery, which should include their ownership cost spread over time, is a particularly significant component of overall farm costs, especially for certain crops. Agricultural enterprises exhibit various specificities, being influenced by climatic and soil factors, the type and extent of crops, and the seasonality of agricultural activities. Therefore, the choice of tractor and its accessories, considering their type and size, requires the consideration of many factors. The approach begins with an analysis of the selection problem in its accounting dimension, including a discussion on calculating fixed and variable costs, along with a detailed example of calculating tractor usage costs. Additionally, the calculations are demonstrated in an Excel spreadsheet. Subsequently, the problem is presented and solved using integer linear programming. Parameters and variables are defined, and the objective function and constraints are provided. The problem is solved using an Excel spreadsheet with the OpenSolver tool. The thesis concludes by presenting a realistic problem of selecting agricultural machinery for a single-crop wheat farm, providing all necessary elements and performing the required calculations to have relevant data. The specific problem is solved using the GAMS program, accompanied by a detailed presentation of the results and conclusions.</small>
+<br><br>
+
+**Construction of a linear programming model and estimation of economic results, regarding the operation of a cattle farming unit with 50 lactating cows and calf fattening in the Metsovo region**  
+*2017, Bachelor Thesis, Student: Dimitrios Godevenos*  
+
+<small>This bachelor's thesis focuses on constructing a linear programming model for formulating cattle feeding and estimating the economic results of a dairy farm and developing-fattening calves in the Metsovo region. The farm maintains 50 lactating cows, five of which are withdrawn and sold as heifer-beef meat each year, while another five are newly introduced calves to the herd. The aim of this thesis is to analyze the biological activities of animals influencing their energy and protein needs, estimate these needs, and cover them at the lowest cost (using linear programming). The main productive expenses are also analyzed, along with an examination of the production process and economic results of the farm.</small>
+<br><br>
+
+**A serious business game for the efficient irrigation of cotton crop**  
+*2017, Bachelor Thesis, Student:  TODO*  
+
+<small>TODO</small>
+<br><br>

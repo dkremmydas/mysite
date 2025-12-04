@@ -6,11 +6,85 @@ link-external-newwindow: true
 ---
 
 
-## HYDROSENSE
-xxx
+## TOOLS4CAP
+[2023 – 2027]  
+**Innovative tools to support CAP Strategic Plans**  
+*Budget:* € 4 million. Horizon Europe funded  
+*My roles and responsibilities:* Model development; Scenario analysis; Policy insights; Research papers drafting  
+*Workload:* 3 person-months  
+
+<small>The New Delivery Model established by Regulation EU 2115/2021 will bring significant changes to the EU’s Common Agricultural Policy (CAP) governance. Specifically, it will introduce Strategic Plans and new monitoring, review and evaluation requirements. The EU-funded Tools4CAP project will support the implementation of National Strategic Plans 2023–2027 and lay the foundations for a sound preparation of Post-2027 Strategic Plans. Establishing a flexible and participatory Coordination and Support Action, the project will promote learning, exchange processes and adoption of innovative solutions and good practices for the design, monitoring, and evaluation of CAP Strategic Plans. Tools4CAP will deliver a comprehensive inventory of tools, methodological guidelines on innovative solutions and a handbook of good practices.</small>  
+<br><br>
 
 ## MINDSTEP
-xxx
+[2019 – 2023]  
+**Modelling Individual Decisions to Support European Agricultural Policies**  
+*Budget:* € 4 million. H2020 EU funded  
+*My roles and responsibilities:* JRC coordinator in the consortium; IFM-CAP modeler; Drafting policy scenario publications; Presentations in stakeholder meetings  
+*Workload:* 10 person-months  
 
-## TOOLS4CAP
-xxxx
+<small>MINDSTEP improves the exploitation of agricultural and biophysical data by integrating the individual decision-making unit (IDM) into policy models. Based on a common data framework, the project develops IDM models—including agent-based models—focusing on regional case studies through integrated approaches. The models are calibrated using agricultural statistics, large datasets, econometric methods, machine learning techniques, and behavioural economics. Close cooperation with stakeholders ensures co-creation and application of the MINDSTEP toolbox to regional, national, and EU-level policy cases.</small>  
+<br><br>
+
+## FP ADOPTION
+[2023 – 2023]  
+**Building an agro-economic database on eco-scheme farming practices**  
+*Budget:* € 113,000. Funded by the JRC Unit D4 (Economics of the Food System)  
+*My role and responsibilities:* Project manager  
+*Workload:* 3 person-months  
+
+<small>The project builds a detailed agro-economic database of eco-scheme-related practices across the EU to strengthen modelling capacity for CAP impact assessments. Against the EU's 2030 sustainability targets, the project examines how the adoption of new practices affects farm economics. Tasks include expert identification, data collection methodologies, database construction, and simulation of economic and environmental effects. Deliverables include an expert database, methodological report, collected questionnaires, and a dataset of farming practices.</small>  
+<br><br>
+
+## SUPREMA
+[2018 – 2020]  
+**Support for Policy Relevant Modelling of Agriculture**  
+*Budget:* € 1 million. H2020 EU funded  
+*My roles and responsibilities:* IFM-CAP modeler; Drafting policy scenario publications; Presentations in stakeholder meetings  
+*Workload:* 3 person-months  
+
+<small>SUPREMA addresses the evolving needs of agricultural policy analysis by developing a meta-platform supporting interconnected modelling groups. It aligns modelling tools with diverse policy objectives, develops a roadmap for future modelling, strengthens the SUPREMA model family, explores advanced modelling approaches, and integrates results into a meta-platform accessible to research communities and policymakers.</small>  
+<br><br>
+
+## MAGIC
+[2018 – 2018]  
+**Marginal Lands for Growing Industrial Crops**  
+*Budget:* € 5.999 million. H2020 EU funded  
+*My role and responsibilities:* Policy recommendations; Best-practice guidelines; Cost analysis of energy crops on marginal land  
+*Workload:* 10 person-months  
+
+<small>MAGIC explores the potential of industrial crops grown on marginal lands, aiming for sustainable, resource-efficient, and economically viable production systems. It develops an extensive database, catalogs existing industrial crops and their agronomic traits, maps marginal lands in Europe, and identifies best practices. The project engages farmers and end-users through a decision support system and investigates innovative breeding tools and improved biomass logistics.</small>  
+<br><br>
+
+## CAP SP CONSULTANT
+[2017 – 2018]  
+**Consultancy for the Greek Ministry of Agriculture – CAP 2020/25 Strategic Plan**  
+*Budget:* € 150,000. Funded by the Greek Ministry of Agriculture  
+*My role and responsibilities:* Modelling policy scenarios for convergence and redistribution options  
+*Workload:* 2 person-months  
+
+<small>Consultancy services supporting the preparation and implementation of Greece’s CAP 2020/25 strategic plan. Work included scenario modelling of alternative redistribution and convergence options to support planning and decision-making.</small>  
+<br><br>
+
+## PILOTEC
+[2006 – 2008]  
+**Pilot projects supporting ex-tobacco producers in cultivating energy crops**  
+*Budget:* € 500,000. Funded by the Greek Payment and Control Agency (Tobacco Fund)  
+*My role and responsibilities:* Project coordination; Data analysis; Model development; Statistical analysis  
+*Workload:* 26 person-months  
+
+<small>The project facilitated the transition of tobacco producers in Aetolia-Acarnania, Karditsa, and Kilkis to energy crop cultivation. It analyzed farms, evaluated the complexity of production systems, and assessed the profitability of various energy crops under multiple policy scenarios. In collaboration with the University of Thessaly, it produced cost assessments, developed optimal production plans, and implemented a web-based decision support system integrating economic modelling and geographical data.</small>  
+<br><br>
+
+## HYDROSENSE
+[2006 – 2006]  
+**Precision technologies for optimized irrigation and crop management**  
+*Budget:* € 1.693 million. LIFE EU funded  
+*My role and responsibilities:* Data analysis; Model development  
+*Workload:* 1 person-month  
+
+<small>HYDROSENSE aimed to improve water, fertilizer, and pesticide efficiency in Mediterranean cotton production using precision agriculture and proximal remote sensing technologies. It generated data and tools for evaluating economic effectiveness and scalability, and included training and dissemination activities to promote adoption across the region.</small>  
+<br><br>
+
+
+
