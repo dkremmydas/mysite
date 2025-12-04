@@ -8,13 +8,12 @@ link-external-newwindow: true
 ## 2025
 **XVIII EAAE Congress**, Bonn, Germany, [Link](https://www.ilr1.uni-bonn.de/eaaecongress2025/en){target="_blank"}  
 – *Maximizing Policy Impact: The Value of Information in Designing Agri-environmental Policy*, Kremmydas, Dimitrios; Baldoni, Edoardo; Rey Vicario, Dolores; Tillie, Pascal  
-– *Environmental and Economic Impacts of a Tax on Mineral N Fertilizers*, Helming, John; Krisztin, Tamas; Müller, Marc; Kremmydas,
-Dimitrios; Rey Vicario, Dolores; Scherer, Hugo; Sckokai, Paolo; Stepanyan, Davit; Varacca, Alessandro; Koutchadé, Obafèmi; Alain, Carpentier; Femenia, Fabienne  
+– *Environmental and Economic Impacts of a Tax on Mineral N Fertilizers*, Helming John, Krisztin, Tamas, Müller Marc, Kremmydas Dimitrios, Rey Vicario Dolores, Scherer Hugo, Sckokai Paolo, Stepanyan Davit, Varacca Alessandro, Koutchadé Obafèmi, Alain Carpentier, Femenia Fabienne  
 – *Farm-level effects of the Enhanced Conditionality in the CAP*, Rey Vicario, Dolores;
 Kremmydas, Dimitrios; Baldoni, Edoardo; Tillie, Pascal  
-– *Enhancing IFM-CAP Calibration: Integrating Risk Preferences from Behavioral Experiment*, in organised session 'Incorporating Results from Behavioural Experimental Methods in Agro-Economic Modelling', Kremmydas Dimitris, Rey Dolores, Tillie Pascal
-- *Exploring the Future of the CAP: Insights from the IFM-CAP Model*, in organised session 'Advancing Farm Modeling for CAP Policy Analysis: Building a Collaborative Network', Kremmydas Dimitrios, Rey Vicario Dolores, Tillie Pascal 
-- *A Framework for Extending Farm Models with Sustainable Farming Practices and Adoption of Eco-schemes*, in organised session 'Advancing Farm Modeling for CAP Policy Analysis: Building a Collaborative Network', Kremmydas Dimitrios, Rey Vicario Dolores, Ciaian Pavel, Tillie Pascal
+– *Enhancing IFM-CAP Calibration: Integrating Risk Preferences from Behavioral Experiment*, in organised session 'Incorporating Results from Behavioural Experimental Methods in Agro-Economic Modelling', Kremmydas Dimitris, Rey Dolores, Tillie Pascal  
+- *Exploring the Future of the CAP: Insights from the IFM-CAP Model*, in organised session 'Advancing Farm Modeling for CAP Policy Analysis: Building a Collaborative Network', Kremmydas Dimitrios, Rey Vicario Dolores, Tillie Pascal   
+- *A Framework for Extending Farm Models with Sustainable Farming Practices and Adoption of Eco-schemes*, in organised session 'Advancing Farm Modeling for CAP Policy Analysis: Building a Collaborative Network', Kremmydas Dimitrios, Rey Vicario Dolores, Ciaian Pavel, Tillie Pascal  
 - *Challenges To Better Represent Water In Micro-Economic Models: The Case Of IFMCAP (Individual Farm Model for Common Agricultural Policy Analysis)*, in organised session 'Sustainable Water Use in Agriculture: from Economic Modelling to Policy Design', Rey-Vicario Dolores, Kremmydas Dimitrios, Baldoni, Edoardo, Tillie Pascal
 - <br><br>
 
